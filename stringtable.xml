@@ -1,0 +1,1855 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Arma3">
+  <Package name="ChernarusRedux">
+		<Container name="ChernarusRedux_Int">
+      <Key
+        ID="STR_location_zelenogorsk">
+        <Original>Zelenogorsk</Original>
+        <French>Zelenogorsk</French>
+        <Spanish>Zelenogorsk</Spanish>
+        <Italian>Zelenogorsk</Italian>
+        <Hungarian>Zelenogorszk</Hungarian>
+        <Polish>Zielenogorsk</Polish>
+        <Russian>Зеленогорск</Russian>
+        <German>Zelenogorsk</German>
+        <Czech>Zelenogorsk</Czech>
+        <English>Zelenogorsk</English>
+        <Japanese>Zelenogorsk</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_airfield">
+        <Original>Airfield</Original>
+        <French>Aérodrome</French>
+        <Spanish>Campo aéreo</Spanish>
+        <Italian>Campo aereo</Italian>
+        <Hungarian>Repülőtér</Hungarian>
+        <Polish>Lotnisko</Polish>
+        <Russian>Aэродром</Russian>
+        <German>Flugfeld</German>
+        <Czech>Letiště</Czech>
+        <English>Airfield</English>
+        <Japanese>Airfield</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_w_skalistyproliv">
+        <Original>Skalisty Proliv</Original>
+        <French>Skalisty Proliv</French>
+        <Spanish>Skalisty Proliv</Spanish>
+        <Italian>Skalisty Proliv</Italian>
+        <Hungarian>Szkaliszty Proliv</Hungarian>
+        <Polish>Skalisty Przesmyk</Polish>
+        <Russian>Пролив Скалистый</Russian>
+        <German>Skalisty Proliv</German>
+        <Czech>Skalistý průliv</Czech>
+        <English>Skalisty Proliv</English>
+        <Japanese>Skalisty Proliv</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_airstrip">
+        <Original>Airstrip</Original>
+        <French>Piste d'aviation</French>
+        <Spanish>Pista de aterrizaje</Spanish>
+        <Italian>Pista d'atterraggio</Italian>
+        <Hungarian>Kifutópálya</Hungarian>
+        <Polish>Lądowisko</Polish>
+        <Russian>ВПП</Russian>
+        <German>Landebahn</German>
+        <Czech>Přistávací plocha</Czech>
+        <English>Airstrip</English>
+        <Japanese>Airstrip</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_w_sinayavoda">
+        <Original>Sinaya Voda</Original>
+        <French>Sinaya Voda</French>
+        <Spanish>Sinaya Voda</Spanish>
+        <Italian>Sinaya Voda</Italian>
+        <Hungarian>Szinnaja Voda</Hungarian>
+        <Polish>Niebieska Woda</Polish>
+        <Russian>Синяя вода</Russian>
+        <German>Sinaya Voda</German>
+        <Czech>Modrá Voda</Czech>
+        <English>Sinaya Voda</English>
+        <Japanese>Sinaya Voda</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_balota">
+        <Original>Balota</Original>
+        <French>Balota</French>
+        <Spanish>Balota</Spanish>
+        <Italian>Balota</Italian>
+        <Hungarian>Balota</Hungarian>
+        <Polish>Balota</Polish>
+        <Russian>Балота</Russian>
+        <German>Balota</German>
+        <Czech>Balota</Czech>
+        <English>Balota</English>
+        <Japanese>Balota</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_w_rify">
+        <Original>Rify</Original>
+        <French>Rify</French>
+        <Spanish>Rify</Spanish>
+        <Italian>Rify</Italian>
+        <Hungarian>Rify</Hungarian>
+        <Polish>Rify</Polish>
+        <Russian>Рифы </Russian>
+        <German>Rify</German>
+        <Czech>Rify</Czech>
+        <English>Rify</English>
+        <Japanese>Rify</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_berezino">
+        <Original>Berezino</Original>
+        <French>Berezino</French>
+        <Spanish>Berezino</Spanish>
+        <Italian>Berezino</Italian>
+        <Hungarian>Berezino</Hungarian>
+        <Polish>Berezino</Polish>
+        <Russian>Березино</Russian>
+        <German>Berezino</German>
+        <Czech>Berezino</Czech>
+        <English>Berezino</English>
+        <Japanese>Berezino</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_w_prud">
+        <Original>Prud</Original>
+        <French>Prud</French>
+        <Spanish>Prud</Spanish>
+        <Italian>Prud</Italian>
+        <Hungarian>Prud</Hungarian>
+        <Polish>Prud</Polish>
+        <Russian>Пруд</Russian>
+        <German>Prud</German>
+        <Czech>Prud</Czech>
+        <English>Prud</English>
+        <Japanese>Prud</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_bor">
+        <Original>Bor</Original>
+        <French>Bor</French>
+        <Spanish>Bor</Spanish>
+        <Italian>Bor</Italian>
+        <Hungarian>Bor</Hungarian>
+        <Polish>Bor</Polish>
+        <Russian>Бор</Russian>
+        <German>Bor</German>
+        <Czech>Bor</Czech>
+        <English>Bor</English>
+        <Japanese>Bor</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_w_ozerko">
+        <Original>Ozerko</Original>
+        <French>Ozerko</French>
+        <Spanish>Ozerko</Spanish>
+        <Italian>Ozerko</Italian>
+        <Hungarian>Ozerko</Hungarian>
+        <Polish>Ozerko</Polish>
+        <Russian>Озерко</Russian>
+        <German>Ozerko</German>
+        <Czech>Jezírko</Czech>
+        <English>Ozerko</English>
+        <Japanese>Ozerko</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_chernogorsk">
+        <Original>Chernogorsk</Original>
+        <French>Tchernogorsk</French>
+        <Spanish>Chernogorsk</Spanish>
+        <Italian>Chernogorsk</Italian>
+        <Hungarian>Csernogorszk</Hungarian>
+        <Polish>Czernogorsk</Polish>
+        <Russian>Черногорск</Russian>
+        <German>Chernogorsk</German>
+        <Czech>Černogorsk</Czech>
+        <English>Chernogorsk</English>
+        <Japanese>Chernogorsk</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_w_lakewillow">
+        <Original>Willow Lake</Original>
+        <French>Lac aux saules</French>
+        <Spanish>Lago del Sauce</Spanish>
+        <Italian>Lago del Salice</Italian>
+        <Hungarian>Fűzes-tó</Hungarian>
+        <Polish>Jezioro Wierzba</Polish>
+        <Russian>Озеро Ивовое </Russian>
+        <German>Weidensee</German>
+        <Czech>Vrbové jezero</Czech>
+        <English>Willow Lake</English>
+        <Japanese>Willow Lake</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_dolina">
+        <Original>Dolina</Original>
+        <French>Dolina</French>
+        <Spanish>Dolina</Spanish>
+        <Italian>Dolina</Italian>
+        <Hungarian>Dolina</Hungarian>
+        <Polish>Dolina</Polish>
+        <Russian>Долина</Russian>
+        <German>Dolina</German>
+        <Czech>Dolina</Czech>
+        <English>Dolina</English>
+        <Japanese>Dolina</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_w_lakeblack">
+        <Original>Black Lake</Original>
+        <French>Lac noir</French>
+        <Spanish>Lago Negro</Spanish>
+        <Italian>Lago Nero</Italian>
+        <Hungarian>Fekete-tó</Hungarian>
+        <Polish>Jezioro Czarne</Polish>
+        <Russian>Озеро Черное </Russian>
+        <German>Schwarzer See</German>
+        <Czech>Černé jezero</Czech>
+        <English>Black Lake</English>
+        <Japanese>Black Lake</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_drozhino">
+        <Original>Drozhino</Original>
+        <French>Drozhino</French>
+        <Spanish>Drozhino</Spanish>
+        <Italian>Drozhino</Italian>
+        <Hungarian>Drozino</Hungarian>
+        <Polish>Drożino</Polish>
+        <Russian>Дрожино</Russian>
+        <German>Drozhino</German>
+        <Czech>Drožino</Czech>
+        <English>Drozhino</English>
+        <Japanese>Drozhino</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_w_guba">
+        <Original>Guba</Original>
+        <French>Guba</French>
+        <Spanish>Guba</Spanish>
+        <Italian>Guba</Italian>
+        <Hungarian>Guba</Hungarian>
+        <Polish>Guba</Polish>
+        <Russian>Губа</Russian>
+        <German>Guba</German>
+        <Czech>Guba</Czech>
+        <English>Guba</English>
+        <Japanese>Guba</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_dubrovka">
+        <Original>Dubrovka</Original>
+        <French>Dubrovka</French>
+        <Spanish>Dubrovka</Spanish>
+        <Italian>Dubrovka</Italian>
+        <Hungarian>Dubrovka</Hungarian>
+        <Polish>Dubrowka</Polish>
+        <Russian>Дубровка</Russian>
+        <German>Dubrovka</German>
+        <Czech>Dubrovka</Czech>
+        <English>Dubrovka</English>
+        <Japanese>Dubrovka</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_w_damtopolka">
+        <Original>Topolka Dam</Original>
+        <French>Barrage de Topolka</French>
+        <Spanish>Dique de Topolka</Spanish>
+        <Italian>Diga di Topolka</Italian>
+        <Hungarian>Topolka-gát</Hungarian>
+        <Polish>Zapora Topołka</Polish>
+        <Russian>Плотина Тополька</Russian>
+        <German>Topolka-Damm</German>
+        <Czech>přehrada Topolka</Czech>
+        <English>Topolka Dam</English>
+        <Japanese>Topolka Dam</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_elektrozavodsk">
+        <Original>Elektrozavodsk</Original>
+        <French>Elektrozavodsk</French>
+        <Spanish>Elektrozavodsk</Spanish>
+        <Italian>Elektrozavodsk</Italian>
+        <Hungarian>Elektrozavodszk</Hungarian>
+        <Polish>Elektrozawodzk</Polish>
+        <Russian>Электрозаводск</Russian>
+        <German>Elektrozavodsk</German>
+        <Czech>Elektrozavodsk</Czech>
+        <English>Elektrozavodsk</English>
+        <Japanese>Elektrozavodsk</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_w_dampobeda">
+        <Original>Pobeda Dam</Original>
+        <French>Barrage de Pobeda</French>
+        <Spanish>Dique de Pobeda</Spanish>
+        <Italian>Diga di Pobeda</Italian>
+        <Hungarian>Pjobeda-gát</Hungarian>
+        <Polish>Zapora Pobeda</Polish>
+        <Russian>Плотина Победа</Russian>
+        <German>Pobeda-Damm</German>
+        <Czech>přehrada Pobeda</Czech>
+        <English>Pobeda Dam</English>
+        <Japanese>Pobeda Dam</Japanese>
+      </Key>
+	  <Key
+        ID="STR_location_w_pobeda">
+        <Original>Pobeda River</Original>
+        <French>Pobeda River</French>
+        <Spanish>Pobeda River</Spanish>
+        <Italian>Pobeda River</Italian>
+        <Hungarian>Pobeda River</Hungarian>
+        <Polish>Pobeda River</Polish>
+        <Russian>река Победа</Russian>
+        <German>Pobeda River</German>
+        <Czech>Pobeda River</Czech>
+        <English>Pobeda River</English>
+        <Japanese>Pobeda River</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_factory">
+        <Original>Factory</Original>
+        <French>Usine</French>
+        <Spanish>Fábrica</Spanish>
+        <Italian>Fabbrica</Italian>
+        <Hungarian>Gyár</Hungarian>
+        <Polish>Fabryka</Polish>
+        <Russian>завод</Russian>
+        <German>Fabrik</German>
+        <Czech>Továrna</Czech>
+        <English>Factory</English>
+        <Japanese>Factory</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_w_bayzelenaya">
+        <Original>Bay Zelenaya</Original>
+        <French>Baie Zelenaya</French>
+        <Spanish>Bahía de Zelenaya</Spanish>
+        <Italian>Baia Zelenaya</Italian>
+        <Hungarian>Zelenyaja-öböl</Hungarian>
+        <Polish>Zatoka Zielona</Polish>
+        <Russian>Бухта Зеленая</Russian>
+        <German>Zelenaya Bucht</German>
+        <Czech>Zelená zátoka</Czech>
+        <English>Bay Zelenaya</English>
+        <Japanese>Bay Zelenaya</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_gorka">
+        <Original>Gorka</Original>
+        <French>Gorka</French>
+        <Spanish>Gorka</Spanish>
+        <Italian>Gorka</Italian>
+        <Hungarian>Gorka</Hungarian>
+        <Polish>Gorka</Polish>
+        <Russian>Горка</Russian>
+        <German>Gorka</German>
+        <Czech>Gorka</Czech>
+        <English>Gorka</English>
+        <Japanese>Gorka</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_w_baytikhaya">
+        <Original>Bay Tikhaya</Original>
+        <French>Baie Tikhaya</French>
+        <Spanish>Bahía de Tikhaya</Spanish>
+        <Italian>Baia Tikhaya</Italian>
+        <Hungarian>Tikhaja-öböl</Hungarian>
+        <Polish>Zatoka Cicha</Polish>
+        <Russian>Бухта Тихая</Russian>
+        <German>Tikhaya Bucht</German>
+        <Czech>Tichá zátoka</Czech>
+        <English>Bay Tikhaya</English>
+        <Japanese>Bay Tikhaya</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_grishino">
+        <Original>Grishino</Original>
+        <French>Grishino</French>
+        <Spanish>Grishino</Spanish>
+        <Italian>Grishino</Italian>
+        <Hungarian>Grisino</Hungarian>
+        <Polish>Griszino</Polish>
+        <Russian>Гришино</Russian>
+        <German>Grishino</German>
+        <Czech>Grišino</Czech>
+        <English>Grishino</English>
+        <Japanese>Grishino</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_w_baynizhnaya">
+        <Original>Bay Nizhnaya</Original>
+        <French>Baie Nizhnaya</French>
+        <Spanish>Bahía de Nizhnaya</Spanish>
+        <Italian>Baia Nizhnaya</Italian>
+        <Hungarian>Nyizsnyaja-öböl</Hungarian>
+        <Polish>Zatoka Niska</Polish>
+        <Russian>Бухта Нижняя</Russian>
+        <German>Nizhnaya Bucht</German>
+        <Czech>Dolní zátoka</Czech>
+        <English>Bay Nizhnaya</English>
+        <Japanese>Bay Nizhnaya</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_guglovo">
+        <Original>Guglovo</Original>
+        <French>Guglovo</French>
+        <Spanish>Guglovo</Spanish>
+        <Italian>Guglovo</Italian>
+        <Hungarian>Guglovo</Hungarian>
+        <Polish>Gugłowo</Polish>
+        <Russian>Гуглово</Russian>
+        <German>Guglovo</German>
+        <Czech>Guglovo</Czech>
+        <English>Guglovo</English>
+        <Japanese>Guglovo</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_w_baymutnaya">
+        <Original>Bay Mutnaya</Original>
+        <French>Baie Mutnaya</French>
+        <Spanish>Bahía de Mutnaya</Spanish>
+        <Italian>Baia Mutnaya</Italian>
+        <Hungarian>Mutnyaja-öböl</Hungarian>
+        <Polish>Zatoka Spokojna</Polish>
+        <Russian>Бухта Мутная</Russian>
+        <German>Mutnaya Bucht</German>
+        <Czech>Kalná zátoka</Czech>
+        <English>Bay Mutnaya</English>
+        <Japanese>Bay Mutnaya</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_gvozdno">
+        <Original>Gvozdno</Original>
+        <French>Gvozdno</French>
+        <Spanish>Gvozdno</Spanish>
+        <Italian>Gvozdno</Italian>
+        <Hungarian>Gvozdno</Hungarian>
+        <Polish>Gwozdno</Polish>
+        <Russian>Гвоздно</Russian>
+        <German>Gvozdno</German>
+        <Czech>Gvozdno</Czech>
+        <English>Gvozdno</English>
+        <Japanese>Gvozdno</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_w_baychyornaya">
+        <Original>Chyornaya Bay</Original>
+        <French>Baie Tchyornaya</French>
+        <Spanish>Bahía de Chyornaya</Spanish>
+        <Italian>Baia Chyornaya</Italian>
+        <Hungarian>Csjornyaja-öböl</Hungarian>
+        <Polish>Zatoka Czarna</Polish>
+        <Russian>Бухта Черная</Russian>
+        <German>Chyornaya Bucht</German>
+        <Czech>Černá zátoka</Czech>
+        <English>Chyornaya Bay</English>
+        <Japanese>Chyornaya Bay</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_kabanino">
+        <Original>Kabanino</Original>
+        <French>Kabanino</French>
+        <Spanish>Kabanino</Spanish>
+        <Italian>Kabanino</Italian>
+        <Hungarian>Kabanino</Hungarian>
+        <Polish>Kabanino</Polish>
+        <Russian>Кабанино</Russian>
+        <German>Kabanino</German>
+        <Czech>Kabanino</Czech>
+        <English>Kabanino</English>
+        <Japanese>Kabanino</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_vyshnoe">
+        <Original>Vyshnoye</Original>
+        <French>Vishnoye</French>
+        <Spanish>Vyshnoe</Spanish>
+        <Italian>Vyshnoye</Italian>
+        <Hungarian>Visnoje</Hungarian>
+        <Polish>Wisznoje </Polish>
+        <Russian>Вышное</Russian>
+        <German>Vyshnoye</German>
+        <Czech>Vyšnoje</Czech>
+        <English>Vyshnoye</English>
+        <Japanese>Vyshnoye</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_kamenka">
+        <Original>Kamenka</Original>
+        <French>Kamenka</French>
+        <Spanish>Kamenka</Spanish>
+        <Italian>Kamenka</Italian>
+        <Hungarian>Kamenka</Hungarian>
+        <Polish>Kamenka</Polish>
+        <Russian>Каменка</Russian>
+        <German>Kamenka</German>
+        <Czech>Kamenka</Czech>
+        <English>Kamenka</English>
+        <Japanese>Kamenka</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_vybor">
+        <Original>Vybor</Original>
+        <French>Vybor</French>
+        <Spanish>Vybor</Spanish>
+        <Italian>Vybor</Italian>
+        <Hungarian>Vibor</Hungarian>
+        <Polish>Wibor</Polish>
+        <Russian>Выбор</Russian>
+        <German>Vybor</German>
+        <Czech>Vybor</Czech>
+        <English>Vybor</English>
+        <Japanese>Vybor</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_kamyshovo">
+        <Original>Kamyshovo</Original>
+        <French>Kamyshovo</French>
+        <Spanish>Kamyshovo</Spanish>
+        <Italian>Kamyshovo</Italian>
+        <Hungarian>Kamisovo</Hungarian>
+        <Polish>Kamiszowo</Polish>
+        <Russian>Камышово</Russian>
+        <German>Kamyshovo</German>
+        <Czech>Kamyševo</Czech>
+        <English>Kamyshovo</English>
+        <Japanese>Kamyshovo</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_tulga">
+        <Original>Tulga</Original>
+        <French>Tulga</French>
+        <Spanish>Tulga</Spanish>
+        <Italian>Tulga</Italian>
+        <Hungarian>Tulga</Hungarian>
+        <Polish>Tulga</Polish>
+        <Russian>Тулга</Russian>
+        <German>Tulga</German>
+        <Czech>Tulga</Czech>
+        <English>Tulga</English>
+        <Japanese>Tulga</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_khelm">
+        <Original>Khelm</Original>
+        <French>Khelm</French>
+        <Spanish>Khelm</Spanish>
+        <Italian>Khelm</Italian>
+        <Hungarian>Khelm</Hungarian>
+        <Polish>Chelm</Polish>
+        <Russian>Хельм</Russian>
+        <German>Khelm</German>
+        <Czech>Chelm</Czech>
+        <English>Khelm</English>
+        <Japanese>Khelm</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_starysobor">
+        <Original>Stary Sobor</Original>
+        <French>Stary Sobor</French>
+        <Spanish>Stary Sobor</Spanish>
+        <Italian>Stary Sobor</Italian>
+        <Hungarian>Sztari Szobor</Hungarian>
+        <Polish>Stary Sobor</Polish>
+        <Russian>Старый Собор</Russian>
+        <German>Stary Sobor</German>
+        <Czech>Starý Sobor</Czech>
+        <English>Stary Sobor</English>
+        <Japanese>Stary Sobor</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_komarovo">
+        <Original>Komarovo</Original>
+        <French>Komarovo</French>
+        <Spanish>Komarovo</Spanish>
+        <Italian>Komarovo</Italian>
+        <Hungarian>Komarovo</Hungarian>
+        <Polish>Komarewo</Polish>
+        <Russian>Комарово</Russian>
+        <German>Komarovo</German>
+        <Czech>Komarovo</Czech>
+        <English>Komarovo</English>
+        <Japanese>Komarovo</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_staroye">
+        <Original>Staroye</Original>
+        <French>Staroye</French>
+        <Spanish>Staroye</Spanish>
+        <Italian>Staroye</Italian>
+        <Hungarian>Sztaroje</Hungarian>
+        <Polish>Staroje</Polish>
+        <Russian>Старое</Russian>
+        <German>Staroye</German>
+        <Czech>Staroje</Czech>
+        <English>Staroye</English>
+        <Japanese>Staroye</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_kozlovka">
+        <Original>Kozlovka</Original>
+        <French>Kozlovka</French>
+        <Spanish>Kozlovka</Spanish>
+        <Italian>Kozlovka</Italian>
+        <Hungarian>Kozlovka</Hungarian>
+        <Polish>Kozłowka</Polish>
+        <Russian>Козловка</Russian>
+        <German>Kozlovka</German>
+        <Czech>Kozlovka</Czech>
+        <English>Kozlovka</English>
+        <Japanese>Kozlovka</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_sosnovka">
+        <Original>Sosnovka</Original>
+        <French>Sosnovka</French>
+        <Spanish>Sosnovka</Spanish>
+        <Italian>Sosnovka</Italian>
+        <Hungarian>Szosnovka</Hungarian>
+        <Polish>Sosnowka</Polish>
+        <Russian>Сосновка</Russian>
+        <German>Sosnovka</German>
+        <Czech>Sosnovka</Czech>
+        <English>Sosnovka</English>
+        <Japanese>Sosnovka</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_krasnostav">
+        <Original>Krasnostav</Original>
+        <French>Krasnostav</French>
+        <Spanish>Krasnostav</Spanish>
+        <Italian>Krasnostav</Italian>
+        <Hungarian>Krasznosztav</Hungarian>
+        <Polish>Krasnostaw</Polish>
+        <Russian>Красностав</Russian>
+        <German>Krasnostav</German>
+        <Czech>Krasnostav</Czech>
+        <English>Krasnostav</English>
+        <Japanese>Krasnostav</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_solnichniy">
+        <Original>Solnichniy</Original>
+        <French>Solnitchniy</French>
+        <Spanish>Solnichniy</Spanish>
+        <Italian>Solnichniy</Italian>
+        <Hungarian>Szolnicsnij</Hungarian>
+        <Polish>Sołniczny</Polish>
+        <Russian>Солнечный</Russian>
+        <German>Solnichniy</German>
+        <Czech>Solněčnyj</Czech>
+        <English>Solnichniy</English>
+        <Japanese>Solnichniy</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_loc_blackforest">
+        <Original>Black Forest</Original>
+        <French>Forêt noire</French>
+        <Spanish>Bosque Negro</Spanish>
+        <Italian>Foresta Nera</Italian>
+        <Hungarian>Fekete-erdő</Hungarian>
+        <Polish>Czarny Las</Polish>
+        <Russian>Черный лес</Russian>
+        <German>Schwarzwald</German>
+        <Czech>Černý Les</Czech>
+        <English>Black Forest</English>
+        <Japanese>Black Forest</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_shakhovka">
+        <Original>Shakhovka</Original>
+        <French>Shakhovka</French>
+        <Spanish>Shakhovka</Spanish>
+        <Italian>Shakhovka</Italian>
+        <Hungarian>Sakovka</Hungarian>
+        <Polish>Szachowka</Polish>
+        <Russian>Шаховка</Russian>
+        <German>Shakhovka</German>
+        <Czech>Šachovka</Czech>
+        <English>Shakhovka</English>
+        <Japanese>Shakhovka</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_loc_bluntrocks">
+        <Original>Blunt Rocks</Original>
+        <French>Rochers abrupts</French>
+        <Spanish>Piedras Romas</Spanish>
+        <Italian>Rocce smussate</Italian>
+        <Hungarian>Csonka-szikla</Hungarian>
+        <Polish>Nagie Skały</Polish>
+        <Russian>Тупые скалы</Russian>
+        <German>Stumpfe Felsen</German>
+        <Czech>Tupé Skály</Czech>
+        <English>Blunt Rocks</English>
+        <Japanese>Blunt Rocks</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_rogovo">
+        <Original>Rogovo</Original>
+        <French>Rogovo</French>
+        <Spanish>Rogovo</Spanish>
+        <Italian>Rogovo</Italian>
+        <Hungarian>Rogovo</Hungarian>
+        <Polish>Rogowo</Polish>
+        <Russian>Рогово</Russian>
+        <German>Rogovo</German>
+        <Czech>Rogovo</Czech>
+        <English>Rogovo</English>
+        <Japanese>Rogovo</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_loc_capgolova">
+        <Original>Cap Golova</Original>
+        <French>Cap Golova</French>
+        <Spanish>Cabo Golova</Spanish>
+        <Italian>Capo Golova</Italian>
+        <Hungarian>Golova-csúcs</Hungarian>
+        <Polish>Cypel Gołowa</Polish>
+        <Russian>Мыс Голова</Russian>
+        <German>Cap Golova</German>
+        <Czech>mys Hlava</Czech>
+        <English>Cap Golova</English>
+        <Japanese>Cap Golova</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_quarry">
+        <Original>Quarry</Original>
+        <French>Carrière</French>
+        <Spanish>Cantera</Spanish>
+        <Italian>Cava</Italian>
+        <Hungarian>Kőfejtő</Hungarian>
+        <Polish>Prom</Polish>
+        <Russian>карьер</Russian>
+        <German>Steinbruch</German>
+        <Czech>Lom</Czech>
+        <English>Quarry</English>
+        <Japanese>Quarry</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_loc_capkrutoy">
+        <Original>Krutoy Cap</Original>
+        <French>Cap Krutoy</French>
+        <Spanish>Cabo Krutoy</Spanish>
+        <Italian>Capo Krutoy</Italian>
+        <Hungarian>Krutoy-csúcs</Hungarian>
+        <Polish>Cypel Krutoj</Polish>
+        <Russian>Мыс Крутой</Russian>
+        <German>Krutoy Cap</German>
+        <Czech>Strmý mys</Czech>
+        <English>Krutoy Cap</English>
+        <Japanese>Krutoy Cap</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_pustoshka">
+        <Original>Pustoshka</Original>
+        <French>Pustoshka</French>
+        <Spanish>Pustoshka</Spanish>
+        <Italian>Pustoshka</Italian>
+        <Hungarian>Pusztoska</Hungarian>
+        <Polish>Pustoszka</Polish>
+        <Russian>Пустошка</Russian>
+        <German>Pustoschka</German>
+        <Czech>Pustoška</Czech>
+        <English>Pustoshka</English>
+        <Japanese>Pustoshka</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_loc_devilscastle">
+        <Original>Devil's Castle</Original>
+        <French>Château du diable</French>
+        <Spanish>Castillo del Diablo</Spanish>
+        <Italian>Castello del Diavolo</Italian>
+        <Hungarian>Az ördög kastélya</Hungarian>
+        <Polish>Diabelski Zamek</Polish>
+        <Russian>Чертов замок</Russian>
+        <German>Teufelsschloss</German>
+        <Czech>Čertův Hrad</Czech>
+        <English>Devil's Castle</English>
+        <Japanese>Devil's Castle</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_pusta">
+        <Original>Pusta</Original>
+        <French>Pusta</French>
+        <Spanish>Pusta</Spanish>
+        <Italian>Pusta</Italian>
+        <Hungarian>Pusta</Hungarian>
+        <Polish>Pusta</Polish>
+        <Russian>Пуста</Russian>
+        <German>Pusta</German>
+        <Czech>Pusta</Czech>
+        <English>Pusta</English>
+        <Japanese>Pusta</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_loc_dichina">
+        <Original>Dichina</Original>
+        <French>Dichina</French>
+        <Spanish>Dichina</Spanish>
+        <Italian>Dichina</Italian>
+        <Hungarian>Dicsinya</Hungarian>
+        <Polish>Diszina</Polish>
+        <Russian>Дичина</Russian>
+        <German>Dichina</German>
+        <Czech>Dičina</Czech>
+        <English>Dichina</English>
+        <Japanese>Dichina</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_pulkovo">
+        <Original>Pulkovo</Original>
+        <French>Pulkovo</French>
+        <Spanish>Pulkovo</Spanish>
+        <Italian>Pulkovo</Italian>
+        <Hungarian>Pulkovo</Hungarian>
+        <Polish>Pulkowo</Polish>
+        <Russian>Пулково</Russian>
+        <German>Pulkowo</German>
+        <Czech>Pulkovo</Czech>
+        <English>Pulkovo</English>
+        <Japanese>Pulkovo</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_loc_drakon">
+        <Original>Drakon</Original>
+        <French>Drakon</French>
+        <Spanish>Drakon</Spanish>
+        <Italian>Drakon</Italian>
+        <Hungarian>Drakon</Hungarian>
+        <Polish>Drakon</Polish>
+        <Russian>Дракон</Russian>
+        <German>Drakon</German>
+        <Czech>Drakon</Czech>
+        <English>Drakon</English>
+        <Japanese>Drakon</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_prigorodki">
+        <Original>Prigorodki</Original>
+        <French>Prigorodki</French>
+        <Spanish>Prigorodki</Spanish>
+        <Italian>Prigorodki</Italian>
+        <Hungarian>Prigorodki</Hungarian>
+        <Polish>Prigorodki</Polish>
+        <Russian>Пригородки</Russian>
+        <German>Prigorodki</German>
+        <Czech>Prigorodky</Czech>
+        <English>Prigorodki</English>
+        <Japanese>Prigorodki</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_loc_greenmountain">
+        <Original>Green Mountain</Original>
+        <French>Mont vert</French>
+        <Spanish>Monte Verde</Spanish>
+        <Italian>Montagna Verde</Italian>
+        <Hungarian>Zöld-hegy</Hungarian>
+        <Polish>Zielona Góra</Polish>
+        <Russian>Гора Зеленая</Russian>
+        <German>Grüner Berg</German>
+        <Czech>Zelená Hora</Czech>
+        <English>Green Mountain</English>
+        <Japanese>Green Mountain</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_powerplant">
+        <Original>Power plant</Original>
+        <French>Centrale</French>
+        <Spanish>Central eléctrica</Spanish>
+        <Italian>Centrale elettrica</Italian>
+        <Hungarian>Erőmű</Hungarian>
+        <Polish>Elektrownia</Polish>
+        <Russian>электростанция</Russian>
+        <German>Kraftwerk</German>
+        <Czech>Elektrárna</Czech>
+        <English>Power plant</English>
+        <Japanese>Power plant</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_loc_islandskalisty">
+        <Original>Skalisty Island</Original>
+        <French>Île de Skalisty</French>
+        <Spanish>Isla de Skalisty</Spanish>
+        <Italian>Isola Skalisty</Italian>
+        <Hungarian>Szakiszty-sziget</Hungarian>
+        <Polish>Wyspa Skalista</Polish>
+        <Russian>Остров Скалистый</Russian>
+        <German>Insel Skalisty</German>
+        <Czech>Skalistý o.</Czech>
+        <English>Skalisty Island</English>
+        <Japanese>Skalisty Island</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_polana">
+        <Original>Polana</Original>
+        <French>Polana</French>
+        <Spanish>Polana</Spanish>
+        <Italian>Polana</Italian>
+        <Hungarian>Polana</Hungarian>
+        <Polish>Polana</Polish>
+        <Russian>Поляна</Russian>
+        <German>Polana</German>
+        <Czech>Polana</Czech>
+        <English>Polana</English>
+        <Japanese>Polana</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_loc_kopyto">
+        <Original>Kopyto</Original>
+        <French>Kopyto</French>
+        <Spanish>Kopyto</Spanish>
+        <Italian>Kopyto</Italian>
+        <Hungarian>Kopyto</Hungarian>
+        <Polish>Kopyto</Polish>
+        <Russian>Копыто</Russian>
+        <German>Kopyto</German>
+        <Czech>Kopyto</Czech>
+        <English>Kopyto</English>
+        <Japanese>Kopyto</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_pogorevka">
+        <Original>Pogorevka</Original>
+        <French>Pogorevka</French>
+        <Spanish>Pogorevka</Spanish>
+        <Italian>Pogorevka</Italian>
+        <Hungarian>Pogorevka</Hungarian>
+        <Polish>Pogorewka</Polish>
+        <Russian>Погоревка</Russian>
+        <German>Pogorevka</German>
+        <Czech>Pogorevka</Czech>
+        <English>Pogorevka</English>
+        <Japanese>Pogorevka</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_loc_kumyrna">
+        <Original>Kumyrna</Original>
+        <French>Kumyrna</French>
+        <Spanish>Kumyrna</Spanish>
+        <Italian>Kumyrna</Italian>
+        <Hungarian>Kumyrna</Hungarian>
+        <Polish>Kumyrna</Polish>
+        <Russian>Кумырна</Russian>
+        <German>Kumyrna</German>
+        <Czech>Kumyrna</Czech>
+        <English>Kumyrna</English>
+        <Japanese>Kumyrna</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_petrovka">
+        <Original>Petrovka</Original>
+        <French>Petrovka</French>
+        <Spanish>Petrovka</Spanish>
+        <Italian>Petrovka</Italian>
+        <Hungarian>Petrovka</Hungarian>
+        <Polish>Petrowka</Polish>
+        <Russian>Петровка</Russian>
+        <German>Petrovka</German>
+        <Czech>Petrovka</Czech>
+        <English>Petrovka</English>
+        <Japanese>Petrovka</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_loc_novylug">
+        <Original>Novy Lug</Original>
+        <French>Novy Lug</French>
+        <Spanish>Novy Lug</Spanish>
+        <Italian>Novy Lug</Italian>
+        <Hungarian>Novy Lug</Hungarian>
+        <Polish>Nowy Ług</Polish>
+        <Russian>Новый луг</Russian>
+        <German>Novy Lug</German>
+        <Czech>Nový Luh</Czech>
+        <English>Novy Lug</English>
+        <Japanese>Novy Lug</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_pavlovo">
+        <Original>Pavlovo</Original>
+        <French>Pavlovo</French>
+        <Spanish>Pavlovo</Spanish>
+        <Italian>Pavlovo</Italian>
+        <Hungarian>Pavlovo</Hungarian>
+        <Polish>Pawłowo</Polish>
+        <Russian>Павлово</Russian>
+        <German>Pavlovo</German>
+        <Czech>Pavlovo</Czech>
+        <English>Pavlovo</English>
+        <Japanese>Pavlovo</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_loc_oldfields">
+        <Original>Old Fields</Original>
+        <French>Vieux champs</French>
+        <Spanish>Campo Viejo</Spanish>
+        <Italian>Vecchi campi</Italian>
+        <Hungarian>Öregrét</Hungarian>
+        <Polish>Stare Pola</Polish>
+        <Russian>Старые поля</Russian>
+        <German>Altes Feld</German>
+        <Czech>Stará Pole</Czech>
+        <English>Old Fields</English>
+        <Japanese>Old Fields</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_orlovets">
+        <Original>Orlovets</Original>
+        <French>Orlovets</French>
+        <Spanish>Orlovets</Spanish>
+        <Italian>Orlovets</Italian>
+        <Hungarian>Orlovec</Hungarian>
+        <Polish>Orłowiec</Polish>
+        <Russian>Орловец</Russian>
+        <German>Orlovets</German>
+        <Czech>Orlovec</Czech>
+        <English>Orlovets</English>
+        <Japanese>Orlovets</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_loc_otmel">
+        <Original>Otmel</Original>
+        <French>Otmel</French>
+        <Spanish>Otmel</Spanish>
+        <Italian>Otmel</Italian>
+        <Hungarian>Otmel</Hungarian>
+        <Polish>Otmel</Polish>
+        <Russian>Отмель</Russian>
+        <German>Otmel</German>
+        <Czech>Otmel</Czech>
+        <English>Otmel</English>
+        <Japanese>Otmel</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_olsha">
+        <Original>Olsha</Original>
+        <French>Olsha</French>
+        <Spanish>Olsha</Spanish>
+        <Italian>Olsha</Italian>
+        <Hungarian>Olsa</Hungarian>
+        <Polish>Olsza</Polish>
+        <Russian>Ольша</Russian>
+        <German>Olsha</German>
+        <Czech>Olša</Czech>
+        <English>Olsha</English>
+        <Japanese>Olsha</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_loc_passgrozovoy">
+        <Original>Grozovoy Pass</Original>
+        <French>Col de Grozovoy</French>
+        <Spanish>Paso de Grozovoy</Spanish>
+        <Italian>Valico di Grozovoy</Italian>
+        <Hungarian>Grozovoy-szoros</Hungarian>
+        <Polish>Przełęcz Grozowoj</Polish>
+        <Russian>Перевал Грозовой</Russian>
+        <German>Grozovoy Pass</German>
+        <Czech>Hromový průsmyk</Czech>
+        <English>Grozovoy Pass</English>
+        <Japanese>Grozovoy Pass</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_novysobor">
+        <Original>Novy Sobor</Original>
+        <French>Novy Sobor</French>
+        <Spanish>Novy Sobor</Spanish>
+        <Italian>Novy Sobor</Italian>
+        <Hungarian>Novi Szobor</Hungarian>
+        <Polish>Nowy Sobor</Polish>
+        <Russian>Новый Собор</Russian>
+        <German>Novy Sobor</German>
+        <Czech>Nový Sobor</Czech>
+        <English>Novy Sobor</English>
+        <Japanese>Novy Sobor</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_loc_passoreshka">
+        <Original>Pass Oreshka</Original>
+        <French>Col d'Oreshka</French>
+        <Spanish>Paso de Oreshka</Spanish>
+        <Italian>Valico di Oreshka</Italian>
+        <Hungarian>Oreshka-szoros</Hungarian>
+        <Polish>Przełęcz Oreszka</Polish>
+        <Russian>Перевал Орешка</Russian>
+        <German>Pass Oreshka</German>
+        <Czech>průsmyk Oreška</Czech>
+        <English>Pass Oreshka</English>
+        <Japanese>Pass Oreshka</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_nizhnoye">
+        <Original>Nizhnoye</Original>
+        <French>Nizhnoye</French>
+        <Spanish>Nizhnoye</Spanish>
+        <Italian>Nizhnoye</Italian>
+        <Hungarian>Nyizsnyoje</Hungarian>
+        <Polish>Niżnoje</Polish>
+        <Russian>Нижнее</Russian>
+        <German>Nizhnoye</German>
+        <Czech>Nižnoje</Czech>
+        <English>Nizhnoye</English>
+        <Japanese>Nizhnoye</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_loc_passsosnovy">
+        <Original>Pass Sosnovy</Original>
+        <French>Col de Sosnovy</French>
+        <Spanish>Paso de Sosnovy</Spanish>
+        <Italian>Valico di Sosnovy</Italian>
+        <Hungarian>Szosznovy-szoros</Hungarian>
+        <Polish>Przełęcz Sosnowa</Polish>
+        <Russian>Перевал Сосновый</Russian>
+        <German>Pass Sosnovy</German>
+        <Czech>Sosnový průsmyk</Czech>
+        <English>Pass Sosnovy</English>
+        <Japanese>Pass Sosnovy</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_nadezhdino">
+        <Original>Nadezhdino</Original>
+        <French>Nadezhdino</French>
+        <Spanish>Nadezhdino</Spanish>
+        <Italian>Nadezhdino</Italian>
+        <Hungarian>Nadezsdijnyo</Hungarian>
+        <Polish>Nadieżdino</Polish>
+        <Russian>Надеждино</Russian>
+        <German>Nadezhdino</German>
+        <Czech>Naděždino</Czech>
+        <English>Nadezhdino</English>
+        <Japanese>Nadezhdino</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_loc_rog">
+        <Original>Rog</Original>
+        <French>Rog</French>
+        <Spanish>Rog</Spanish>
+        <Italian>Rog</Italian>
+        <Hungarian>Rog</Hungarian>
+        <Polish>Rog</Polish>
+        <Russian>Рог</Russian>
+        <German>Rog</German>
+        <Czech>Rog</Czech>
+        <English>Rog</English>
+        <Japanese>Rog</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_myshkino">
+        <Original>Myshkino</Original>
+        <French>Myshkino</French>
+        <Spanish>Myshkino</Spanish>
+        <Italian>Myshkino</Italian>
+        <Hungarian>Miskino</Hungarian>
+        <Polish>Miszkino</Polish>
+        <Russian>Мышкино</Russian>
+        <German>Myshkino</German>
+        <Czech>Myškino</Czech>
+        <English>Myshkino</English>
+        <Japanese>Myshkino</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_loc_skalka">
+        <Original>Skalka</Original>
+        <French>Skalka</French>
+        <Spanish>Skalka</Spanish>
+        <Italian>Skalka</Italian>
+        <Hungarian>Szkalka</Hungarian>
+        <Polish>Skałka</Polish>
+        <Russian>Скалка</Russian>
+        <German>Skalka</German>
+        <Czech>Skalka</Czech>
+        <English>Skalka</English>
+        <Japanese>Skalka</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_windymt">
+        <Original>Windy Mountain</Original>
+        <French>Mont venteux</French>
+        <Spanish>Monte Ventoso</Spanish>
+        <Italian>Montagna Ventosa</Italian>
+        <Hungarian>Szeles-hegység</Hungarian>
+        <Polish>Góra Wiatrów</Polish>
+        <Russian>Гора Ветряная</Russian>
+        <German>Windberg</German>
+        <Czech>Větrná</Czech>
+        <English>Windy Mountain</English>
+        <Japanese>Windy Mountain</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_loc_threevalleys">
+        <Original>Three Valleys</Original>
+        <French>Trois vallées</French>
+        <Spanish>Tres Valles</Spanish>
+        <Italian>Tre valli</Italian>
+        <Hungarian>Háromvölgy</Hungarian>
+        <Polish>Trzy Doliny</Polish>
+        <Russian>Три долины</Russian>
+        <German>Drei Täler</German>
+        <Czech>Tři Údolí</Czech>
+        <English>Three Valleys</English>
+        <Japanese>Three Valleys</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_vysokykamen">
+        <Original>Vysoky Kamen</Original>
+        <French>Vysoky Kamen</French>
+        <Spanish>Vysoky Kamen</Spanish>
+        <Italian>Vysoky Kamen</Italian>
+        <Hungarian>Viszoky Kamen</Hungarian>
+        <Polish>Wysoki Kamień</Polish>
+        <Russian>Высокий камень</Russian>
+        <German>Vysoky Kamen</German>
+        <Czech>Vysoký Kámen</Czech>
+        <English>Vysoky Kamen</English>
+        <Japanese>Vysoky Kamen</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_loc_vysota">
+        <Original>Vysota</Original>
+        <French>Vysota</French>
+        <Spanish>Vysota</Spanish>
+        <Italian>Vysota</Italian>
+        <Hungarian>Viszota</Hungarian>
+        <Polish>Wysota</Polish>
+        <Russian>Высота</Russian>
+        <German>Vysota</German>
+        <Czech>Vysota</Czech>
+        <English>Vysota</English>
+        <Japanese>Vysota</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_veresnik">
+        <Original>Veresnik</Original>
+        <French>Veresnik</French>
+        <Spanish>Veresnik</Spanish>
+        <Italian>Veresnik</Italian>
+        <Hungarian>Verezsnyik</Hungarian>
+        <Polish>Weresnik</Polish>
+        <Russian>Вересник</Russian>
+        <German>Veresnik</German>
+        <Czech>Veresnik</Czech>
+        <English>Veresnik</English>
+        <Japanese>Veresnik</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_loc_zub">
+        <Original>Zub</Original>
+        <French>Zub</French>
+        <Spanish>Zub</Spanish>
+        <Italian>Zub</Italian>
+        <Hungarian>Zub</Hungarian>
+        <Polish>Zub</Polish>
+        <Russian>Зуб</Russian>
+        <German>Zub</German>
+        <Czech>Zub</Czech>
+        <English>Zub</English>
+        <Japanese>Zub</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_tron">
+        <Original>Tron</Original>
+        <French>Tron</French>
+        <Spanish>Tron</Spanish>
+        <Italian>Tron</Italian>
+        <Hungarian>Tron</Hungarian>
+        <Polish>Tron</Polish>
+        <Russian>Трон</Russian>
+        <German>Tron</German>
+        <Czech>Trůn</Czech>
+        <English>Tron</English>
+        <Japanese>Tron</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_lopatino">
+        <Original>Lopatino</Original>
+        <French>Lopatino</French>
+        <Spanish>Lopatino</Spanish>
+        <Italian>Lopatino</Italian>
+        <Hungarian>Lopatino</Hungarian>
+        <Polish>Lopatino</Polish>
+        <Russian>Лопатино</Russian>
+        <German>Lopatino</German>
+        <Czech>Lopatino</Czech>
+        <English>Lopatino</English>
+        <Japanese>Lopatino</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_ridgepostoy">
+        <Original>Pustoy Khrebet</Original>
+        <French>Pustoy Khrebet</French>
+        <Spanish>Pustoy Khrebet</Spanish>
+        <Italian>Pustoy Khrebet</Italian>
+        <Hungarian>Pusztoj Khrebet</Hungarian>
+        <Polish>Pustoj Khrebet</Polish>
+        <Russian>Пустой хребет</Russian>
+        <German>Pustoy Khrebet</German>
+        <Czech>Pustý Hřbet</Czech>
+        <English>Pustoy Khrebet</English>
+        <Japanese>Pustoy Khrebet</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_lumbermill">
+        <Original>Lumber mill</Original>
+        <French>Scierie</French>
+        <Spanish>Aserradero</Spanish>
+        <Italian>Segheria</Italian>
+        <Hungarian>Fűrészmalom</Hungarian>
+        <Polish>Tartak</Polish>
+        <Russian>лесопилка</Russian>
+        <German>Sägewerk</German>
+        <Czech>Pila</Czech>
+        <English>Lumber mill</English>
+        <Japanese>Lumber mill</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_ridgelesnoy">
+        <Original>Lesnoy Khrebet</Original>
+        <French>Lesnoy Khrebet</French>
+        <Spanish>Lesnoy Khrebet</Spanish>
+        <Italian>Lesnoy Khrebet</Italian>
+        <Hungarian>Lesznyoj Khrebet</Hungarian>
+        <Polish>Lesnoj Khrebet</Polish>
+        <Russian>Лесной хребет</Russian>
+        <German>Lesnoy Khrebet</German>
+        <Czech>Lesní Hřbet</Czech>
+        <English>Lesnoy Khrebet</English>
+        <Japanese>Lesnoy Khrebet</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_military">
+        <Original>Military area</Original>
+        <French>Zone militaire</French>
+        <Spanish>Zona militar</Spanish>
+        <Italian>Area militare</Italian>
+        <Hungarian>Katonai terület</Hungarian>
+        <Polish>Obszar wojskowy</Polish>
+        <Russian>военная зона</Russian>
+        <German>Militärgebiet</German>
+        <Czech>Vojenský prostor</Czech>
+        <English>Military area</English>
+        <Japanese>Military area</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_prestol">
+        <Original>Prestol</Original>
+        <French>Prestol</French>
+        <Spanish>Prestol</Spanish>
+        <Italian>Prestol</Italian>
+        <Hungarian>Presztol</Hungarian>
+        <Polish>Prestoł</Polish>
+        <Russian>Престол</Russian>
+        <German>Prestol</German>
+        <Czech>Stolec</Czech>
+        <English>Prestol</English>
+        <Japanese>Prestol</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mogilevka">
+        <Original>Mogilevka</Original>
+        <French>Mogilevka</French>
+        <Spanish>Mogilevka</Spanish>
+        <Italian>Mogilevka</Italian>
+        <Hungarian>Mogilevka</Hungarian>
+        <Polish>Mogilewka</Polish>
+        <Russian>Могилевка</Russian>
+        <German>Mogilevka</German>
+        <Czech>Mogilevka</Czech>
+        <English>Mogilevka</English>
+        <Japanese>Mogilevka</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_popivan">
+        <Original>Pop Ivan</Original>
+        <French>Pop Ivan</French>
+        <Spanish>Pop Ivan</Spanish>
+        <Italian>Pop Ivan</Italian>
+        <Hungarian>Pop Ivan</Hungarian>
+        <Polish>Pop Iwan</Polish>
+        <Russian>Поп Иван</Russian>
+        <German>Pop Ivan</German>
+        <Czech>Pop Ivan</Czech>
+        <English>Pop Ivan</English>
+        <Japanese>Pop Ivan</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_msta">
+        <Original>Msta</Original>
+        <French>Msta</French>
+        <Spanish>Msta</Spanish>
+        <Italian>Msta</Italian>
+        <Hungarian>Mszta</Hungarian>
+        <Polish>Msta</Polish>
+        <Russian>Мста</Russian>
+        <German>Msta</German>
+        <Czech>Msta</Czech>
+        <English>Msta</English>
+        <Japanese>Msta</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_pikkozlova">
+        <Original>Pik Kozlova</Original>
+        <French>Pik Kozlova</French>
+        <Spanish>Pik Kozlova</Spanish>
+        <Italian>Pik Kozlova</Italian>
+        <Hungarian>Pik Kozljova</Hungarian>
+        <Polish>Pik Kozłowa</Polish>
+        <Russian>Пик Козлова</Russian>
+        <German>Pik Kozlova</German>
+        <Czech>Pik Kozlova</Czech>
+        <English>Pik Kozlova</English>
+        <Japanese>Pik Kozlova</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_altar">
+        <Original>Altar Hill</Original>
+        <French>Autel</French>
+        <Spanish>Altar</Spanish>
+        <Italian>Altar</Italian>
+        <Hungarian>Altar</Hungarian>
+        <Polish>Altar</Polish>
+        <Russian>Алтарь</Russian>
+        <German>Altar</German>
+        <Czech>Altar</Czech>
+        <English>Altar Hill</English>
+        <Japanese>Altar</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_ostry">
+        <Original>Ostry</Original>
+        <French>Ostry</French>
+        <Spanish>Ostry</Spanish>
+        <Italian>Ostry</Italian>
+        <Hungarian>Osztrij</Hungarian>
+        <Polish>Ostry</Polish>
+        <Russian>Острый</Russian>
+        <German>Ostry</German>
+        <Czech>Ostrý</Czech>
+        <English>Ostry</English>
+        <Japanese>Ostry</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_baranchik">
+        <Original>Baranchik</Original>
+        <French>Baranchik</French>
+        <Spanish>Baranchik</Spanish>
+        <Italian>Baranchik</Italian>
+        <Hungarian>Barancsik</Hungarian>
+        <Polish>Baranczik</Polish>
+        <Russian>Баранчик</Russian>
+        <German>Baranchik</German>
+        <Czech>Barančik</Czech>
+        <English>Baranchik</English>
+        <Japanese>Baranchik</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_olsha">
+        <Original>Olsha</Original>
+        <French>Olsha</French>
+        <Spanish>Olsha</Spanish>
+        <Italian>Olsha</Italian>
+        <Hungarian>Olsha</Hungarian>
+        <Polish>Olsza</Polish>
+        <Russian>Ольша</Russian>
+        <German>Olsha</German>
+        <Czech>Olša</Czech>
+        <English>Olsha</English>
+        <Japanese>Olsha</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_bashnya">
+        <Original>Bashnya</Original>
+        <French>Bashnya</French>
+        <Spanish>Bashnya</Spanish>
+        <Italian>Bashnya</Italian>
+        <Hungarian>Basnyja</Hungarian>
+        <Polish>Basznia</Polish>
+        <Russian>Башня</Russian>
+        <German>Bashnya</German>
+        <Czech>Bašňa</Czech>
+        <English>Bashnya</English>
+        <Japanese>Bashnya</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_mistypeak">
+        <Original>Misty Peak</Original>
+        <French>Pic brumeux</French>
+        <Spanish>Monte Nebuloso</Spanish>
+        <Italian>Misty Peak</Italian>
+        <Hungarian>Ködös-csúcs</Hungarian>
+        <Polish>Wzgórze Mgliste</Polish>
+        <Russian>Пик Туманный</Russian>
+        <German>Nebelspitze</German>
+        <Czech>Mlžný</Czech>
+        <English>Misty Peak</English>
+        <Japanese>Misty Peak</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_blackmt">
+        <Original>Black Mountain</Original>
+        <French>Mont noir</French>
+        <Spanish>Monte Negro</Spanish>
+        <Italian>Montagna Nera</Italian>
+        <Hungarian>Fekete-hegy</Hungarian>
+        <Polish>Czarna Góra</Polish>
+        <Russian>Гора Черная</Russian>
+        <German>Schwarzer Berg</German>
+        <Czech>Černá hora</Czech>
+        <English>Black Mountain</English>
+        <Japanese>Black Mountain</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_malinovka">
+        <Original>Malinovka</Original>
+        <French>Malinovka</French>
+        <Spanish>Malinovka</Spanish>
+        <Italian>Malinovka</Italian>
+        <Hungarian>Malinovka</Hungarian>
+        <Polish>Malinowka</Polish>
+        <Russian>Малиновка</Russian>
+        <German>Malinovka</German>
+        <Czech>Malinovka</Czech>
+        <English>Malinovka</English>
+        <Japanese>Malinovka</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_dobryy">
+        <Original>Dobryy</Original>
+        <French>Dobryy</French>
+        <Spanish>Dobryy</Spanish>
+        <Italian>Dobryy</Italian>
+        <Hungarian>Dobryy</Hungarian>
+        <Polish>Dobry</Polish>
+        <Russian>Добрый</Russian>
+        <German>Dobryy</German>
+        <Czech>Dobrý</Czech>
+        <English>Dobryy</English>
+        <Japanese>Dobryy</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_lysina">
+        <Original>Lysina</Original>
+        <French>Lysina</French>
+        <Spanish>Lysina</Spanish>
+        <Italian>Lysina</Italian>
+        <Hungarian>Liszina</Hungarian>
+        <Polish>Łysina</Polish>
+        <Russian>Лысина</Russian>
+        <German>Lysina</German>
+        <Czech>Lysina</Czech>
+        <English>Lysina</English>
+        <Japanese>Lysina</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_dubina">
+        <Original>Dubina</Original>
+        <French>Dubina</French>
+        <Spanish>Dubina</Spanish>
+        <Italian>Dubina</Italian>
+        <Hungarian>Dubina</Hungarian>
+        <Polish>Dubina</Polish>
+        <Russian>Дубина</Russian>
+        <German>Dubina</German>
+        <Czech>Dubina</Czech>
+        <English>Dubina</English>
+        <Japanese>Dubina</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_littlehill">
+        <Original>Little Hill</Original>
+        <French>Petite colline</French>
+        <Spanish>Colina</Spanish>
+        <Italian>Collinetta</Italian>
+        <Hungarian>Kis-hegy</Hungarian>
+        <Polish>Wzgórze Małe</Polish>
+        <Russian>Маленький холм</Russian>
+        <German>Kleiner Hügel</German>
+        <Czech>Malý Vrch</Czech>
+        <English>Little Hill</English>
+        <Japanese>Little Hill</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_klen">
+        <Original>Klen Hill</Original>
+        <French>Klen Hill</French>
+        <Spanish>Klen Hill</Spanish>
+        <Italian>Klen Hill</Italian>
+        <Hungarian>Klen Hill</Hungarian>
+        <Polish>Klen Hill</Polish>
+        <Russian>Клён</Russian>
+        <German>Klen Hill</German>
+        <Czech>Klen Hill</Czech>
+        <English>Klen Hill</English>
+        <Japanese>Klen Hill</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_kustryk">
+        <Original>Kustryk</Original>
+        <French>Kustryk</French>
+        <Spanish>Kustryk</Spanish>
+        <Italian>Kustryk</Italian>
+        <Hungarian>Kusztrik</Hungarian>
+        <Polish>Kustryk</Polish>
+        <Russian>Кустрик</Russian>
+        <German>Kustryk</German>
+        <Czech>Kustryk</Czech>
+        <English>Kustryk</English>
+        <Japanese>Kustryk</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_korona">
+        <Original>Korona</Original>
+        <French>Korona</French>
+        <Spanish>Korona</Spanish>
+        <Italian>Korona</Italian>
+        <Hungarian>Korona</Hungarian>
+        <Polish>Korona</Polish>
+        <Russian>Корона</Russian>
+        <German>Korona</German>
+        <Czech>Koruna</Czech>
+        <English>Korona</English>
+        <Japanese>Korona</Japanese>
+      </Key>
+      <Key
+        ID="STR_location_mt_kurgan">
+        <Original>Kurgan</Original>
+        <French>Kurgan</French>
+        <Spanish>Kurgan</Spanish>
+        <Italian>Kurgan</Italian>
+        <Hungarian>Kurgan</Hungarian>
+        <Polish>Kurgan</Polish>
+        <Russian>Курган</Russian>
+        <German>Kurgan</German>
+        <Czech>Kurgan</Czech>
+        <English>Kurgan</English>
+        <Japanese>Kurgan</Japanese>
+      </Key>
+	  <Key
+        ID="STR_location_tr_caves">
+        <Original>Tronicka Cave</Original>
+        <French>Tronicka Cave</French>
+        <Spanish>Tronicka Cave</Spanish>
+        <Italian>Tronicka Cave</Italian>
+        <Hungarian>Tronicka Cave</Hungarian>
+        <Polish>Tronicka Cave</Polish>
+        <Russian>Пещеры Троника</Russian>
+        <German>Tronicka Cave</German>
+        <Czech>Tronicka Cave</Czech>
+        <English>Tronicka Cave</English>
+        <Japanese>Tronicka Cave</Japanese>
+      </Key>
+	  <Key
+        ID="STR_location_pavlovo_dam">
+        <Original>Pavlovo Dam</Original>
+        <French>Pavlovo Dam</French>
+        <Spanish>Pavlovo Dam</Spanish>
+        <Italian>Pavlovo Dam</Italian>
+        <Hungarian>Pavlovo Dam</Hungarian>
+        <Polish>Pavlovo Dam</Polish>
+        <Russian>Плотина Павлово</Russian>
+        <German>Pavlovo Dam</German>
+        <Czech>Pavlovo Dam</Czech>
+        <English>Pavlovo Dam</English>
+        <Japanese>Pavlovo Dam</Japanese>
+      </Key>
+	  <Key
+        ID="STR_location_batarov">
+        <Original>Batarov</Original>
+        <French>Batarov</French>
+        <Spanish>Batarov</Spanish>
+        <Italian>Batarov</Italian>
+        <Hungarian>Batarov</Hungarian>
+        <Polish>Batarov</Polish>
+        <Russian>Батаров</Russian>
+        <German>Batarov</German>
+        <Czech>Batarov</Czech>
+        <English>Batarov</English>
+        <Japanese>Batarov</Japanese>
+      </Key>
+	  <Key
+        ID="STR_location_batarov_swamp">
+        <Original>Batarov Swamp</Original>
+        <French>Batarov Swamp</French>
+        <Spanish>Batarov Swamp</Spanish>
+        <Italian>Batarov Swamp</Italian>
+        <Hungarian>Batarov Swamp</Hungarian>
+        <Polish>Batarov Swamp</Polish>
+        <Russian>Топи Батарова</Russian>
+        <German>Batarov Swamp</German>
+        <Czech>Batarov Swamp</Czech>
+        <English>Batarov Swamp</English>
+        <Japanese>Batarov Swamp</Japanese>
+      </Key>
+	  <Key
+        ID="STR_location_chezniki">
+        <Original>Chezniki</Original>
+        <French>Chezniki</French>
+        <Spanish>Chezniki</Spanish>
+        <Italian>Chezniki</Italian>
+        <Hungarian>Chezniki</Hungarian>
+        <Polish>Chezniki</Polish>
+        <Russian>Чезники</Russian>
+        <German>Chezniki</German>
+        <Czech>Chezniki</Czech>
+        <English>Chezniki</English>
+        <Japanese>Chezniki</Japanese>
+      </Key>
+	  <Key
+        ID="STR_location_tikhaya">
+        <Original>Tikhaya River</Original>
+        <French>Tikhaya River</French>
+        <Spanish>Tikhaya River</Spanish>
+        <Italian>Tikhaya River</Italian>
+        <Hungarian>Tikhaya River</Hungarian>
+        <Polish>Tikhaya River</Polish>
+        <Russian>река Тихая</Russian>
+        <German>Tikhaya River</German>
+        <Czech>Tikhaya River</Czech>
+        <English>Tikhaya River</English>
+        <Japanese>Tikhaya River</Japanese>
+      </Key>
+	  <Key
+        ID="STR_location_tunnel_ch">
+        <Original>Tunnel Entrance Chernogorsk</Original>
+        <French>Tunnel Entrance Chernogorsk</French>
+        <Spanish>Tunnel Entrance Chernogorsk</Spanish>
+        <Italian>Tunnel Entrance Chernogorsk</Italian>
+        <Hungarian>Tunnel Entrance Chernogorsk</Hungarian>
+        <Polish>Tunnel Entrance Chernogorsk</Polish>
+        <Russian>Тоннель Черногорск-Электрозаводск</Russian>
+        <German>Tunnel Entrance Chernogorsk</German>
+        <Czech>Tunnel Entrance Chernogorsk</Czech>
+        <English>Tunnel Entrance Chernogorsk</English>
+        <Japanese>Tunnel Entrance Chernogorsk</Japanese>
+      </Key>
+	  <Key
+        ID="STR_location_tunnel_el">
+        <Original>Tunnel Entrance Elektrozavodsk</Original>
+        <French>Tunnel Entrance Elektrozavodsk</French>
+        <Spanish>Tunnel Entrance Elektrozavodsk</Spanish>
+        <Italian>Tunnel Entrance Elektrozavodsk</Italian>
+        <Hungarian>Tunnel Entrance Elektrozavodsk</Hungarian>
+        <Polish>Tunnel Entrance Elektrozavodsk</Polish>
+        <Russian>Тоннель Электрозаводск-Черногорск</Russian>
+        <German>Tunnel Entrance Elektrozavodsk</German>
+        <Czech>Tunnel Entrance Elektrozavodsk</Czech>
+        <English>Tunnel Entrance Elektrozavodsk</English>
+        <Japanese>Tunnel Entrance Elektrozavodsk</Japanese>
+      </Key>
+	  <Key
+        ID="STR_location_under_st">
+        <Original>Underground Station</Original>
+        <French>Underground Station</French>
+        <Spanish>Underground Station</Spanish>
+        <Italian>Underground Station</Italian>
+        <Hungarian>Underground Station</Hungarian>
+        <Polish>Underground Station</Polish>
+        <Russian>Подземная станция</Russian>
+        <German>Underground Station</German>
+        <Czech>Underground Station</Czech>
+        <English>Underground Station</English>
+        <Japanese>Underground Station</Japanese>
+      </Key>
+	  <Key
+        ID="STR_location_zeleno_mil">
+        <Original>Zelenogorsk Military Complex</Original>
+        <French>Zelenogorsk Military Complex</French>
+        <Spanish>Zelenogorsk Military Complex</Spanish>
+        <Italian>Zelenogorsk Military Complex</Italian>
+        <Hungarian>Zelenogorsk Military Complex</Hungarian>
+        <Polish>Zelenogorsk Military Complex</Polish>
+        <Russian>Военный комплекс Зеленогорска</Russian>
+        <German>Zelenogorsk Military Complex</German>
+        <Czech>Zelenogorsk Military Complex</Czech>
+        <English>Zelenogorsk Military Complex</English>
+        <Japanese>Zelenogorsk Military Complex</Japanese>
+      </Key>
+	   <Key
+        ID="STR_location_vyshDubrovka">
+        <Original>Vyshnaya Dubrovka</Original>
+        <French>Vyshnaya Dubrovka</French>
+        <Spanish>Vyshnaya Dubrovka</Spanish>
+        <Italian>Vyshnaya Dubrovka</Italian>
+        <Hungarian>Vyshnaya Dubrovka</Hungarian>
+        <Polish>Vyshnaya Dubrovka</Polish>
+        <Russian>Вышная Дубровка</Russian>
+        <German>Vyshnaya Dubrovka</German>
+        <Czech>Vyshnaya Dubrovka</Czech>
+        <English>Vyshnaya Dubrovka</English>
+        <Japanese>Vyshnaya Dubrovka</Japanese>
+      </Key>
+	  <Key
+        ID="STR_LOCATION_BLACKMT">
+        <Original>B l a c k   M o u n t a i n s</Original>
+        <French>B l a c k   M o u n t a i n s</French>
+        <Spanish>B l a c k   M o u n t a i n s</Spanish>
+        <Italian>B l a c k   M o u n t a i n s</Italian>
+        <Hungarian>B l a c k   M o u n t a i n s</Hungarian>
+        <Polish>B l a c k   M o u n t a i n s</Polish>
+        <Russian>Ч ё р н ы е  Г о р ы</Russian>
+        <German>B l a c k   M o u n t a i n s</German>
+        <Czech>B l a c k   M o u n t a i n s</Czech>
+        <English>B l a c k   M o u n t a i n s</English>
+        <Japanese>B l a c k   M o u n t a i n s</Japanese>
+      </Key>
+	   <Key
+        ID="STR_location_gubareefs">
+        <Original>Guba Reefs</Original>
+        <French>Guba Reefs</French>
+        <Spanish>Guba Reefs</Spanish>
+        <Italian>Guba Reefs</Italian>
+        <Hungarian>Guba Reefs</Hungarian>
+        <Polish>Guba Reefs</Polish>
+        <Russian>рифы Губа</Russian>
+        <German>Guba Reefs</German>
+        <Czech>Guba Reefs</Czech>
+        <English>Guba Reefs</English>
+        <Japanese>Guba Reefs</Japanese>
+      </Key>
+	    <Key
+        ID="STR_location_novylugp">
+        <Original>Novy Lug Correctional Facility</Original>
+        <French>Novy Lug Correctional Facility</French>
+        <Spanish>Novy Lug Correctional Facility</Spanish>
+        <Italian>Novy Lug Correctional Facility</Italian>
+        <Hungarian>Novy Lug Correctional Facility</Hungarian>
+        <Polish>Novy Lug Correctional Facility</Polish>
+        <Russian>Исправительное учреждение "Новый Луг"</Russian>
+        <German>Novy Lug Correctional Facility</German>
+        <Czech>Novy Lug Correctional Facility</Czech>
+        <English>Novy Lug Correctional Facility</English>
+        <Japanese>Novy Lug Correctional Facility</Japanese>
+      </Key>
+	  <Key
+        ID="STR_location_bfpark">
+        <Original>Black Forest Amusement Park</Original>
+        <French>Black Forest Amusement Park</French>
+        <Spanish>Black Forest Amusement Park</Spanish>
+        <Italian>Black Forest Amusement Park</Italian>
+        <Hungarian>Black Forest Amusement Park</Hungarian>
+        <Polish>Black Forest Amusement Park</Polish>
+        <Russian>Парк развлечений "Чёрный Лес"</Russian>
+        <German>Black Forest Amusement Park</German>
+        <Czech>Black Forest Amusement Park</Czech>
+        <English>Black Forest Amusement Park</English>
+        <Japanese>Black Forest Amusement Park</Japanese>
+      </Key>
+	  <Key
+        ID="STR_location_bfresort">
+        <Original>Black Forest Resort</Original>
+        <French>Black Forest Resort</French>
+        <Spanish>Black Forest Resort</Spanish>
+        <Italian>Black Forest Resort</Italian>
+        <Hungarian>Black Forest Resort</Hungarian>
+        <Polish>Black Forest Resort</Polish>
+        <Russian>База отдыха "Чёрный Лес"</Russian>
+        <German>Black Forest Resort</German>
+        <Czech>Black Forest Resort</Czech>
+        <English>Black Forest Resort</English>
+        <Japanese>Black Forest Resort</Japanese>
+      </Key>
+    </Container>
+  </Package>
+</Project>

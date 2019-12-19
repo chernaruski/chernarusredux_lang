@@ -14,7 +14,7 @@
         <German>Zelenogorsk</German>
         <Czech>Zelenogorsk</Czech>
         <English>Zelenogorsk</English>
-        <Japanese>Zelenogorsk</Japanese>
+        <Japanese>ゼレノゴルスク</Japanese>
       </Key>
       <Key
         ID="STR_location_airfield">
@@ -28,7 +28,7 @@
         <German>Flugfeld</German>
         <Czech>Letiště</Czech>
         <English>Airfield</English>
-        <Japanese>Airfield</Japanese>
+        <Japanese>飛行場</Japanese>
       </Key>
       <Key
         ID="STR_location_w_skalistyproliv">
@@ -42,7 +42,7 @@
         <German>Skalisty Proliv</German>
         <Czech>Skalistý průliv</Czech>
         <English>Skalisty Proliv</English>
-        <Japanese>Skalisty Proliv</Japanese>
+        <Japanese>スカリスティー海峡</Japanese>
       </Key>
       <Key
         ID="STR_location_airstrip">
@@ -56,7 +56,7 @@
         <German>Landebahn</German>
         <Czech>Přistávací plocha</Czech>
         <English>Airstrip</English>
-        <Japanese>Airstrip</Japanese>
+        <Japanese>飛行場</Japanese>
       </Key>
       <Key
         ID="STR_location_w_sinayavoda">
@@ -70,7 +70,7 @@
         <German>Sinaya Voda</German>
         <Czech>Modrá Voda</Czech>
         <English>Sinaya Voda</English>
-        <Japanese>Sinaya Voda</Japanese>
+        <Japanese>シニャ ヴァダ</Japanese>
       </Key>
       <Key
         ID="STR_location_balota">
@@ -84,7 +84,7 @@
         <German>Balota</German>
         <Czech>Balota</Czech>
         <English>Balota</English>
-        <Japanese>Balota</Japanese>
+        <Japanese>バロタ</Japanese>
       </Key>
       <Key
         ID="STR_location_w_rify">
@@ -98,7 +98,7 @@
         <German>Rify</German>
         <Czech>Rify</Czech>
         <English>Rify</English>
-        <Japanese>Rify</Japanese>
+        <Japanese>リーフェ</Japanese>
       </Key>
       <Key
         ID="STR_location_berezino">
@@ -112,7 +112,7 @@
         <German>Berezino</German>
         <Czech>Berezino</Czech>
         <English>Berezino</English>
-        <Japanese>Berezino</Japanese>
+        <Japanese>ベレジノ</Japanese>
       </Key>
       <Key
         ID="STR_location_w_prud">
@@ -126,7 +126,7 @@
         <German>Prud</German>
         <Czech>Prud</Czech>
         <English>Prud</English>
-        <Japanese>Prud</Japanese>
+        <Japanese>プロゥド</Japanese>
       </Key>
       <Key
         ID="STR_location_bor">
@@ -140,7 +140,7 @@
         <German>Bor</German>
         <Czech>Bor</Czech>
         <English>Bor</English>
-        <Japanese>Bor</Japanese>
+        <Japanese>ボー</Japanese>
       </Key>
       <Key
         ID="STR_location_w_ozerko">
@@ -154,7 +154,7 @@
         <German>Ozerko</German>
         <Czech>Jezírko</Czech>
         <English>Ozerko</English>
-        <Japanese>Ozerko</Japanese>
+        <Japanese>オゼルコ</Japanese>
       </Key>
       <Key
         ID="STR_location_chernogorsk">
@@ -168,7 +168,7 @@
         <German>Chernogorsk</German>
         <Czech>Černogorsk</Czech>
         <English>Chernogorsk</English>
-        <Japanese>Chernogorsk</Japanese>
+        <Japanese>チェルノゴルスク</Japanese>
       </Key>
       <Key
         ID="STR_location_w_lakewillow">
@@ -182,7 +182,7 @@
         <German>Weidensee</German>
         <Czech>Vrbové jezero</Czech>
         <English>Willow Lake</English>
-        <Japanese>Willow Lake</Japanese>
+        <Japanese>ウィロー湖</Japanese>
       </Key>
       <Key
         ID="STR_location_dolina">
@@ -196,7 +196,7 @@
         <German>Dolina</German>
         <Czech>Dolina</Czech>
         <English>Dolina</English>
-        <Japanese>Dolina</Japanese>
+        <Japanese>ドリナ</Japanese>
       </Key>
       <Key
         ID="STR_location_w_lakeblack">
@@ -210,7 +210,7 @@
         <German>Schwarzer See</German>
         <Czech>Černé jezero</Czech>
         <English>Black Lake</English>
-        <Japanese>Black Lake</Japanese>
+        <Japanese>黒の湖</Japanese>
       </Key>
       <Key
         ID="STR_location_drozhino">
@@ -224,7 +224,7 @@
         <German>Drozhino</German>
         <Czech>Drožino</Czech>
         <English>Drozhino</English>
-        <Japanese>Drozhino</Japanese>
+        <Japanese>ドロジナ</Japanese>
       </Key>
       <Key
         ID="STR_location_w_guba">
@@ -238,7 +238,7 @@
         <German>Guba</German>
         <Czech>Guba</Czech>
         <English>Guba</English>
-        <Japanese>Guba</Japanese>
+        <Japanese>グバ</Japanese>
       </Key>
       <Key
         ID="STR_location_dubrovka">
@@ -252,7 +252,7 @@
         <German>Dubrovka</German>
         <Czech>Dubrovka</Czech>
         <English>Dubrovka</English>
-        <Japanese>Dubrovka</Japanese>
+        <Japanese>ダブロヴカ</Japanese>
       </Key>
       <Key
         ID="STR_location_w_damtopolka">
@@ -266,7 +266,7 @@
         <German>Topolka-Damm</German>
         <Czech>přehrada Topolka</Czech>
         <English>Topolka Dam</English>
-        <Japanese>Topolka Dam</Japanese>
+        <Japanese>タポルカ ダム</Japanese>
       </Key>
       <Key
         ID="STR_location_elektrozavodsk">
@@ -280,7 +280,7 @@
         <German>Elektrozavodsk</German>
         <Czech>Elektrozavodsk</Czech>
         <English>Elektrozavodsk</English>
-        <Japanese>Elektrozavodsk</Japanese>
+        <Japanese>エレクトロザヴォドスク</Japanese>
       </Key>
       <Key
         ID="STR_location_w_dampobeda">
@@ -294,7 +294,7 @@
         <German>Pobeda-Damm</German>
         <Czech>přehrada Pobeda</Czech>
         <English>Pobeda Dam</English>
-        <Japanese>Pobeda Dam</Japanese>
+        <Japanese>パベーダ ダム</Japanese>
       </Key>
 	  <Key
         ID="STR_location_w_pobeda">
@@ -308,7 +308,7 @@
         <German>Pobeda River</German>
         <Czech>Pobeda River</Czech>
         <English>Pobeda River</English>
-        <Japanese>Pobeda River</Japanese>
+        <Japanese>パベーダ川</Japanese>
       </Key>
       <Key
         ID="STR_location_factory">
@@ -322,7 +322,7 @@
         <German>Fabrik</German>
         <Czech>Továrna</Czech>
         <English>Factory</English>
-        <Japanese>Factory</Japanese>
+        <Japanese>工場</Japanese>
       </Key>
       <Key
         ID="STR_location_w_bayzelenaya">
@@ -336,7 +336,7 @@
         <German>Zelenaya Bucht</German>
         <Czech>Zelená zátoka</Czech>
         <English>Bay Zelenaya</English>
-        <Japanese>Bay Zelenaya</Japanese>
+        <Japanese>ゼレナヤ湾</Japanese>
       </Key>
       <Key
         ID="STR_location_gorka">
@@ -350,7 +350,7 @@
         <German>Gorka</German>
         <Czech>Gorka</Czech>
         <English>Gorka</English>
-        <Japanese>Gorka</Japanese>
+        <Japanese>ゴルカ</Japanese>
       </Key>
       <Key
         ID="STR_location_w_baytikhaya">
@@ -364,7 +364,7 @@
         <German>Tikhaya Bucht</German>
         <Czech>Tichá zátoka</Czech>
         <English>Bay Tikhaya</English>
-        <Japanese>Bay Tikhaya</Japanese>
+        <Japanese>チーハヤ湾</Japanese>
       </Key>
       <Key
         ID="STR_location_grishino">
@@ -378,7 +378,7 @@
         <German>Grishino</German>
         <Czech>Grišino</Czech>
         <English>Grishino</English>
-        <Japanese>Grishino</Japanese>
+        <Japanese>グリジノ</Japanese>
       </Key>
       <Key
         ID="STR_location_w_baynizhnaya">
@@ -392,7 +392,7 @@
         <German>Nizhnaya Bucht</German>
         <Czech>Dolní zátoka</Czech>
         <English>Bay Nizhnaya</English>
-        <Japanese>Bay Nizhnaya</Japanese>
+        <Japanese>ニジニャヤツーラ湾</Japanese>
       </Key>
       <Key
         ID="STR_location_guglovo">
@@ -406,7 +406,7 @@
         <German>Guglovo</German>
         <Czech>Guglovo</Czech>
         <English>Guglovo</English>
-        <Japanese>Guglovo</Japanese>
+        <Japanese>ググロヴォ</Japanese>
       </Key>
       <Key
         ID="STR_location_w_baymutnaya">
@@ -420,7 +420,7 @@
         <German>Mutnaya Bucht</German>
         <Czech>Kalná zátoka</Czech>
         <English>Bay Mutnaya</English>
-        <Japanese>Bay Mutnaya</Japanese>
+        <Japanese>マットナヤ湾</Japanese>
       </Key>
       <Key
         ID="STR_location_gvozdno">
@@ -434,7 +434,7 @@
         <German>Gvozdno</German>
         <Czech>Gvozdno</Czech>
         <English>Gvozdno</English>
-        <Japanese>Gvozdno</Japanese>
+        <Japanese>グボズノ</Japanese>
       </Key>
       <Key
         ID="STR_location_w_baychyornaya">
@@ -448,7 +448,7 @@
         <German>Chyornaya Bucht</German>
         <Czech>Černá zátoka</Czech>
         <English>Chyornaya Bay</English>
-        <Japanese>Chyornaya Bay</Japanese>
+        <Japanese>チョールナヤ湾</Japanese>
       </Key>
       <Key
         ID="STR_location_kabanino">
@@ -462,7 +462,7 @@
         <German>Kabanino</German>
         <Czech>Kabanino</Czech>
         <English>Kabanino</English>
-        <Japanese>Kabanino</Japanese>
+        <Japanese>カバニノ</Japanese>
       </Key>
       <Key
         ID="STR_location_vyshnoe">
@@ -476,7 +476,7 @@
         <German>Vyshnoye</German>
         <Czech>Vyšnoje</Czech>
         <English>Vyshnoye</English>
-        <Japanese>Vyshnoye</Japanese>
+        <Japanese>バイシュノエ</Japanese>
       </Key>
       <Key
         ID="STR_location_kamenka">
@@ -490,7 +490,7 @@
         <German>Kamenka</German>
         <Czech>Kamenka</Czech>
         <English>Kamenka</English>
-        <Japanese>Kamenka</Japanese>
+        <Japanese>カメンカ</Japanese>
       </Key>
       <Key
         ID="STR_location_vybor">
@@ -504,7 +504,7 @@
         <German>Vybor</German>
         <Czech>Vybor</Czech>
         <English>Vybor</English>
-        <Japanese>Vybor</Japanese>
+        <Japanese>バイボー</Japanese>
       </Key>
       <Key
         ID="STR_location_kamyshovo">
@@ -518,7 +518,7 @@
         <German>Kamyshovo</German>
         <Czech>Kamyševo</Czech>
         <English>Kamyshovo</English>
-        <Japanese>Kamyshovo</Japanese>
+        <Japanese>カムショバ</Japanese>
       </Key>
       <Key
         ID="STR_location_tulga">
@@ -532,7 +532,7 @@
         <German>Tulga</German>
         <Czech>Tulga</Czech>
         <English>Tulga</English>
-        <Japanese>Tulga</Japanese>
+        <Japanese>トルガ</Japanese>
       </Key>
       <Key
         ID="STR_location_khelm">
@@ -546,7 +546,7 @@
         <German>Khelm</German>
         <Czech>Chelm</Czech>
         <English>Khelm</English>
-        <Japanese>Khelm</Japanese>
+        <Japanese>ケルム</Japanese>
       </Key>
       <Key
         ID="STR_location_starysobor">
@@ -560,7 +560,7 @@
         <German>Stary Sobor</German>
         <Czech>Starý Sobor</Czech>
         <English>Stary Sobor</English>
-        <Japanese>Stary Sobor</Japanese>
+        <Japanese>スターリー ソーボー</Japanese>
       </Key>
       <Key
         ID="STR_location_komarovo">
@@ -574,7 +574,7 @@
         <German>Komarovo</German>
         <Czech>Komarovo</Czech>
         <English>Komarovo</English>
-        <Japanese>Komarovo</Japanese>
+        <Japanese>コムロボ</Japanese>
       </Key>
       <Key
         ID="STR_location_staroye">
@@ -588,7 +588,7 @@
         <German>Staroye</German>
         <Czech>Staroje</Czech>
         <English>Staroye</English>
-        <Japanese>Staroye</Japanese>
+        <Japanese>スターロイ</Japanese>
       </Key>
       <Key
         ID="STR_location_kozlovka">
@@ -602,7 +602,7 @@
         <German>Kozlovka</German>
         <Czech>Kozlovka</Czech>
         <English>Kozlovka</English>
-        <Japanese>Kozlovka</Japanese>
+        <Japanese>コズロフカ</Japanese>
       </Key>
       <Key
         ID="STR_location_sosnovka">
@@ -616,7 +616,7 @@
         <German>Sosnovka</German>
         <Czech>Sosnovka</Czech>
         <English>Sosnovka</English>
-        <Japanese>Sosnovka</Japanese>
+        <Japanese>ソスノフカ</Japanese>
       </Key>
       <Key
         ID="STR_location_krasnostav">
@@ -630,7 +630,7 @@
         <German>Krasnostav</German>
         <Czech>Krasnostav</Czech>
         <English>Krasnostav</English>
-        <Japanese>Krasnostav</Japanese>
+        <Japanese>クラスノスタブ</Japanese>
       </Key>
       <Key
         ID="STR_location_solnichniy">
@@ -644,7 +644,7 @@
         <German>Solnichniy</German>
         <Czech>Solněčnyj</Czech>
         <English>Solnichniy</English>
-        <Japanese>Solnichniy</Japanese>
+        <Japanese>ソルニチニー</Japanese>
       </Key>
       <Key
         ID="STR_location_loc_blackforest">
@@ -658,7 +658,7 @@
         <German>Schwarzwald</German>
         <Czech>Černý Les</Czech>
         <English>Black Forest</English>
-        <Japanese>Black Forest</Japanese>
+        <Japanese>黒の森</Japanese>
       </Key>
       <Key
         ID="STR_location_shakhovka">
@@ -672,7 +672,7 @@
         <German>Shakhovka</German>
         <Czech>Šachovka</Czech>
         <English>Shakhovka</English>
-        <Japanese>Shakhovka</Japanese>
+        <Japanese>シャコフカ</Japanese>
       </Key>
       <Key
         ID="STR_location_loc_bluntrocks">
@@ -686,7 +686,7 @@
         <German>Stumpfe Felsen</German>
         <Czech>Tupé Skály</Czech>
         <English>Blunt Rocks</English>
-        <Japanese>Blunt Rocks</Japanese>
+        <Japanese>ブラント ロック</Japanese>
       </Key>
       <Key
         ID="STR_location_rogovo">
@@ -700,7 +700,7 @@
         <German>Rogovo</German>
         <Czech>Rogovo</Czech>
         <English>Rogovo</English>
-        <Japanese>Rogovo</Japanese>
+        <Japanese>ロゴヴォ</Japanese>
       </Key>
       <Key
         ID="STR_location_loc_capgolova">
@@ -714,7 +714,7 @@
         <German>Cap Golova</German>
         <Czech>mys Hlava</Czech>
         <English>Cap Golova</English>
-        <Japanese>Cap Golova</Japanese>
+        <Japanese>ゴロバ岬</Japanese>
       </Key>
       <Key
         ID="STR_location_quarry">
@@ -728,7 +728,7 @@
         <German>Steinbruch</German>
         <Czech>Lom</Czech>
         <English>Quarry</English>
-        <Japanese>Quarry</Japanese>
+        <Japanese>採石場</Japanese>
       </Key>
       <Key
         ID="STR_location_loc_capkrutoy">
@@ -742,7 +742,7 @@
         <German>Krutoy Cap</German>
         <Czech>Strmý mys</Czech>
         <English>Krutoy Cap</English>
-        <Japanese>Krutoy Cap</Japanese>
+        <Japanese>クルトイ岬</Japanese>
       </Key>
       <Key
         ID="STR_location_pustoshka">
@@ -756,7 +756,7 @@
         <German>Pustoschka</German>
         <Czech>Pustoška</Czech>
         <English>Pustoshka</English>
-        <Japanese>Pustoshka</Japanese>
+        <Japanese>プストシカ</Japanese>
       </Key>
       <Key
         ID="STR_location_loc_devilscastle">
@@ -770,7 +770,7 @@
         <German>Teufelsschloss</German>
         <Czech>Čertův Hrad</Czech>
         <English>Devil's Castle</English>
-        <Japanese>Devil's Castle</Japanese>
+        <Japanese>悪魔の城</Japanese>
       </Key>
       <Key
         ID="STR_location_pusta">
@@ -784,7 +784,7 @@
         <German>Pusta</German>
         <Czech>Pusta</Czech>
         <English>Pusta</English>
-        <Japanese>Pusta</Japanese>
+        <Japanese>プスタ</Japanese>
       </Key>
       <Key
         ID="STR_location_loc_dichina">
@@ -798,7 +798,7 @@
         <German>Dichina</German>
         <Czech>Dičina</Czech>
         <English>Dichina</English>
-        <Japanese>Dichina</Japanese>
+        <Japanese>ディチナ</Japanese>
       </Key>
       <Key
         ID="STR_location_pulkovo">
@@ -812,7 +812,7 @@
         <German>Pulkowo</German>
         <Czech>Pulkovo</Czech>
         <English>Pulkovo</English>
-        <Japanese>Pulkovo</Japanese>
+        <Japanese>プルコヴォ</Japanese>
       </Key>
       <Key
         ID="STR_location_loc_drakon">
@@ -826,7 +826,7 @@
         <German>Drakon</German>
         <Czech>Drakon</Czech>
         <English>Drakon</English>
-        <Japanese>Drakon</Japanese>
+        <Japanese>ドラコン</Japanese>
       </Key>
       <Key
         ID="STR_location_prigorodki">
@@ -840,7 +840,7 @@
         <German>Prigorodki</German>
         <Czech>Prigorodky</Czech>
         <English>Prigorodki</English>
-        <Japanese>Prigorodki</Japanese>
+        <Japanese>プリゴロッキ</Japanese>
       </Key>
       <Key
         ID="STR_location_loc_greenmountain">
@@ -854,7 +854,7 @@
         <German>Grüner Berg</German>
         <Czech>Zelená Hora</Czech>
         <English>Green Mountain</English>
-        <Japanese>Green Mountain</Japanese>
+        <Japanese>緑の山</Japanese>
       </Key>
       <Key
         ID="STR_location_powerplant">
@@ -868,7 +868,7 @@
         <German>Kraftwerk</German>
         <Czech>Elektrárna</Czech>
         <English>Power plant</English>
-        <Japanese>Power plant</Japanese>
+        <Japanese>発電所</Japanese>
       </Key>
       <Key
         ID="STR_location_loc_islandskalisty">
@@ -882,7 +882,7 @@
         <German>Insel Skalisty</German>
         <Czech>Skalistý o.</Czech>
         <English>Skalisty Island</English>
-        <Japanese>Skalisty Island</Japanese>
+        <Japanese>スカリスティー島</Japanese>
       </Key>
       <Key
         ID="STR_location_polana">
@@ -896,7 +896,7 @@
         <German>Polana</German>
         <Czech>Polana</Czech>
         <English>Polana</English>
-        <Japanese>Polana</Japanese>
+        <Japanese>ポラナ</Japanese>
       </Key>
       <Key
         ID="STR_location_loc_kopyto">
@@ -910,7 +910,7 @@
         <German>Kopyto</German>
         <Czech>Kopyto</Czech>
         <English>Kopyto</English>
-        <Japanese>Kopyto</Japanese>
+        <Japanese>コピト</Japanese>
       </Key>
       <Key
         ID="STR_location_pogorevka">
@@ -924,7 +924,7 @@
         <German>Pogorevka</German>
         <Czech>Pogorevka</Czech>
         <English>Pogorevka</English>
-        <Japanese>Pogorevka</Japanese>
+        <Japanese>ポゴレフカ</Japanese>
       </Key>
       <Key
         ID="STR_location_loc_kumyrna">
@@ -938,7 +938,7 @@
         <German>Kumyrna</German>
         <Czech>Kumyrna</Czech>
         <English>Kumyrna</English>
-        <Japanese>Kumyrna</Japanese>
+        <Japanese>クルミナ</Japanese>
       </Key>
       <Key
         ID="STR_location_petrovka">
@@ -952,7 +952,7 @@
         <German>Petrovka</German>
         <Czech>Petrovka</Czech>
         <English>Petrovka</English>
-        <Japanese>Petrovka</Japanese>
+        <Japanese>ペトロフカ</Japanese>
       </Key>
       <Key
         ID="STR_location_loc_novylug">
@@ -966,7 +966,7 @@
         <German>Novy Lug</German>
         <Czech>Nový Luh</Czech>
         <English>Novy Lug</English>
-        <Japanese>Novy Lug</Japanese>
+        <Japanese>ノービー ラグ</Japanese>
       </Key>
       <Key
         ID="STR_location_pavlovo">
@@ -980,7 +980,7 @@
         <German>Pavlovo</German>
         <Czech>Pavlovo</Czech>
         <English>Pavlovo</English>
-        <Japanese>Pavlovo</Japanese>
+        <Japanese>パブロボ</Japanese>
       </Key>
       <Key
         ID="STR_location_loc_oldfields">
@@ -994,7 +994,7 @@
         <German>Altes Feld</German>
         <Czech>Stará Pole</Czech>
         <English>Old Fields</English>
-        <Japanese>Old Fields</Japanese>
+        <Japanese>古い農地</Japanese>
       </Key>
       <Key
         ID="STR_location_orlovets">
@@ -1008,7 +1008,7 @@
         <German>Orlovets</German>
         <Czech>Orlovec</Czech>
         <English>Orlovets</English>
-        <Japanese>Orlovets</Japanese>
+        <Japanese>オルロベッツ</Japanese>
       </Key>
       <Key
         ID="STR_location_loc_otmel">
@@ -1022,7 +1022,7 @@
         <German>Otmel</German>
         <Czech>Otmel</Czech>
         <English>Otmel</English>
-        <Japanese>Otmel</Japanese>
+        <Japanese>オトメル</Japanese>
       </Key>
       <Key
         ID="STR_location_olsha">
@@ -1036,7 +1036,7 @@
         <German>Olsha</German>
         <Czech>Olša</Czech>
         <English>Olsha</English>
-        <Japanese>Olsha</Japanese>
+        <Japanese>オルシャ</Japanese>
       </Key>
       <Key
         ID="STR_location_loc_passgrozovoy">
@@ -1050,7 +1050,7 @@
         <German>Grozovoy Pass</German>
         <Czech>Hromový průsmyk</Czech>
         <English>Grozovoy Pass</English>
-        <Japanese>Grozovoy Pass</Japanese>
+        <Japanese>グロゾボイ峠</Japanese>
       </Key>
       <Key
         ID="STR_location_novysobor">
@@ -1064,7 +1064,7 @@
         <German>Novy Sobor</German>
         <Czech>Nový Sobor</Czech>
         <English>Novy Sobor</English>
-        <Japanese>Novy Sobor</Japanese>
+        <Japanese>ノービー ソーボー</Japanese>
       </Key>
       <Key
         ID="STR_location_loc_passoreshka">
@@ -1078,7 +1078,7 @@
         <German>Pass Oreshka</German>
         <Czech>průsmyk Oreška</Czech>
         <English>Pass Oreshka</English>
-        <Japanese>Pass Oreshka</Japanese>
+        <Japanese>オレシカ峠</Japanese>
       </Key>
       <Key
         ID="STR_location_nizhnoye">
@@ -1092,7 +1092,7 @@
         <German>Nizhnoye</German>
         <Czech>Nižnoje</Czech>
         <English>Nizhnoye</English>
-        <Japanese>Nizhnoye</Japanese>
+        <Japanese>ニジノエ</Japanese>
       </Key>
       <Key
         ID="STR_location_loc_passsosnovy">
@@ -1106,7 +1106,7 @@
         <German>Pass Sosnovy</German>
         <Czech>Sosnový průsmyk</Czech>
         <English>Pass Sosnovy</English>
-        <Japanese>Pass Sosnovy</Japanese>
+        <Japanese>ソスノビ峠</Japanese>
       </Key>
       <Key
         ID="STR_location_nadezhdino">
@@ -1120,7 +1120,7 @@
         <German>Nadezhdino</German>
         <Czech>Naděždino</Czech>
         <English>Nadezhdino</English>
-        <Japanese>Nadezhdino</Japanese>
+        <Japanese>ナデジディノ</Japanese>
       </Key>
       <Key
         ID="STR_location_loc_rog">
@@ -1134,7 +1134,7 @@
         <German>Rog</German>
         <Czech>Rog</Czech>
         <English>Rog</English>
-        <Japanese>Rog</Japanese>
+        <Japanese>ログ</Japanese>
       </Key>
       <Key
         ID="STR_location_myshkino">
@@ -1148,7 +1148,7 @@
         <German>Myshkino</German>
         <Czech>Myškino</Czech>
         <English>Myshkino</English>
-        <Japanese>Myshkino</Japanese>
+        <Japanese>マイシュキナ</Japanese>
       </Key>
       <Key
         ID="STR_location_loc_skalka">
@@ -1162,7 +1162,7 @@
         <German>Skalka</German>
         <Czech>Skalka</Czech>
         <English>Skalka</English>
-        <Japanese>Skalka</Japanese>
+        <Japanese>スコルカ</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_windymt">
@@ -1176,7 +1176,7 @@
         <German>Windberg</German>
         <Czech>Větrná</Czech>
         <English>Windy Mountain</English>
-        <Japanese>Windy Mountain</Japanese>
+        <Japanese>風の山</Japanese>
       </Key>
       <Key
         ID="STR_location_loc_threevalleys">
@@ -1190,7 +1190,7 @@
         <German>Drei Täler</German>
         <Czech>Tři Údolí</Czech>
         <English>Three Valleys</English>
-        <Japanese>Three Valleys</Japanese>
+        <Japanese>三ヶ谷</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_vysokykamen">
@@ -1204,7 +1204,7 @@
         <German>Vysoky Kamen</German>
         <Czech>Vysoký Kámen</Czech>
         <English>Vysoky Kamen</English>
-        <Japanese>Vysoky Kamen</Japanese>
+        <Japanese>ヴァイソキ カーメン</Japanese>
       </Key>
       <Key
         ID="STR_location_loc_vysota">
@@ -1218,7 +1218,7 @@
         <German>Vysota</German>
         <Czech>Vysota</Czech>
         <English>Vysota</English>
-        <Japanese>Vysota</Japanese>
+        <Japanese>ヴィソタ</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_veresnik">
@@ -1232,7 +1232,7 @@
         <German>Veresnik</German>
         <Czech>Veresnik</Czech>
         <English>Veresnik</English>
-        <Japanese>Veresnik</Japanese>
+        <Japanese>ベレジニク</Japanese>
       </Key>
       <Key
         ID="STR_location_loc_zub">
@@ -1246,7 +1246,7 @@
         <German>Zub</German>
         <Czech>Zub</Czech>
         <English>Zub</English>
-        <Japanese>Zub</Japanese>
+        <Japanese>ザブ</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_tron">
@@ -1260,7 +1260,7 @@
         <German>Tron</German>
         <Czech>Trůn</Czech>
         <English>Tron</English>
-        <Japanese>Tron</Japanese>
+        <Japanese>トロン</Japanese>
       </Key>
       <Key
         ID="STR_location_lopatino">
@@ -1274,7 +1274,7 @@
         <German>Lopatino</German>
         <Czech>Lopatino</Czech>
         <English>Lopatino</English>
-        <Japanese>Lopatino</Japanese>
+        <Japanese>ロパチノ</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_ridgepostoy">
@@ -1288,7 +1288,7 @@
         <German>Pustoy Khrebet</German>
         <Czech>Pustý Hřbet</Czech>
         <English>Pustoy Khrebet</English>
-        <Japanese>Pustoy Khrebet</Japanese>
+        <Japanese>プストイ山脈</Japanese>
       </Key>
       <Key
         ID="STR_location_lumbermill">
@@ -1302,7 +1302,7 @@
         <German>Sägewerk</German>
         <Czech>Pila</Czech>
         <English>Lumber mill</English>
-        <Japanese>Lumber mill</Japanese>
+        <Japanese>製材所</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_ridgelesnoy">
@@ -1316,7 +1316,7 @@
         <German>Lesnoy Khrebet</German>
         <Czech>Lesní Hřbet</Czech>
         <English>Lesnoy Khrebet</English>
-        <Japanese>Lesnoy Khrebet</Japanese>
+        <Japanese>レスノイ山脈</Japanese>
       </Key>
       <Key
         ID="STR_location_military">
@@ -1330,7 +1330,7 @@
         <German>Militärgebiet</German>
         <Czech>Vojenský prostor</Czech>
         <English>Military area</English>
-        <Japanese>Military area</Japanese>
+        <Japanese>軍事エリア</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_prestol">
@@ -1344,7 +1344,7 @@
         <German>Prestol</German>
         <Czech>Stolec</Czech>
         <English>Prestol</English>
-        <Japanese>Prestol</Japanese>
+        <Japanese>プレストル</Japanese>
       </Key>
       <Key
         ID="STR_location_mogilevka">
@@ -1358,7 +1358,7 @@
         <German>Mogilevka</German>
         <Czech>Mogilevka</Czech>
         <English>Mogilevka</English>
-        <Japanese>Mogilevka</Japanese>
+        <Japanese>モギレフカ</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_popivan">
@@ -1372,7 +1372,7 @@
         <German>Pop Ivan</German>
         <Czech>Pop Ivan</Czech>
         <English>Pop Ivan</English>
-        <Japanese>Pop Ivan</Japanese>
+        <Japanese>ポップ イヴァン</Japanese>
       </Key>
       <Key
         ID="STR_location_msta">
@@ -1386,7 +1386,7 @@
         <German>Msta</German>
         <Czech>Msta</Czech>
         <English>Msta</English>
-        <Japanese>Msta</Japanese>
+        <Japanese>ムスタ</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_pikkozlova">
@@ -1400,7 +1400,7 @@
         <German>Pik Kozlova</German>
         <Czech>Pik Kozlova</Czech>
         <English>Pik Kozlova</English>
-        <Japanese>Pik Kozlova</Japanese>
+        <Japanese>コズロヴァ峰</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_altar">
@@ -1414,7 +1414,7 @@
         <German>Altar</German>
         <Czech>Altar</Czech>
         <English>Altar Hill</English>
-        <Japanese>Altar</Japanese>
+        <Japanese>アルター丘</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_ostry">
@@ -1428,7 +1428,7 @@
         <German>Ostry</German>
         <Czech>Ostrý</Czech>
         <English>Ostry</English>
-        <Japanese>Ostry</Japanese>
+        <Japanese>オーストリ</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_baranchik">
@@ -1442,7 +1442,7 @@
         <German>Baranchik</German>
         <Czech>Barančik</Czech>
         <English>Baranchik</English>
-        <Japanese>Baranchik</Japanese>
+        <Japanese>バランチク</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_olsha">
@@ -1456,7 +1456,7 @@
         <German>Olsha</German>
         <Czech>Olša</Czech>
         <English>Olsha</English>
-        <Japanese>Olsha</Japanese>
+        <Japanese>オルシャ</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_bashnya">
@@ -1470,7 +1470,7 @@
         <German>Bashnya</German>
         <Czech>Bašňa</Czech>
         <English>Bashnya</English>
-        <Japanese>Bashnya</Japanese>
+        <Japanese>バシュニャ</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_mistypeak">
@@ -1484,7 +1484,7 @@
         <German>Nebelspitze</German>
         <Czech>Mlžný</Czech>
         <English>Misty Peak</English>
-        <Japanese>Misty Peak</Japanese>
+        <Japanese>霞ヶ峰</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_blackmt">
@@ -1498,7 +1498,7 @@
         <German>Schwarzer Berg</German>
         <Czech>Černá hora</Czech>
         <English>Black Mountain</English>
-        <Japanese>Black Mountain</Japanese>
+        <Japanese>黒の山</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_malinovka">
@@ -1512,7 +1512,7 @@
         <German>Malinovka</German>
         <Czech>Malinovka</Czech>
         <English>Malinovka</English>
-        <Japanese>Malinovka</Japanese>
+        <Japanese>マリノフカ</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_dobryy">
@@ -1526,7 +1526,7 @@
         <German>Dobryy</German>
         <Czech>Dobrý</Czech>
         <English>Dobryy</English>
-        <Japanese>Dobryy</Japanese>
+        <Japanese>ドブリー</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_lysina">
@@ -1540,7 +1540,7 @@
         <German>Lysina</German>
         <Czech>Lysina</Czech>
         <English>Lysina</English>
-        <Japanese>Lysina</Japanese>
+        <Japanese>リジナ</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_dubina">
@@ -1554,7 +1554,7 @@
         <German>Dubina</German>
         <Czech>Dubina</Czech>
         <English>Dubina</English>
-        <Japanese>Dubina</Japanese>
+        <Japanese>ドビナ</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_littlehill">
@@ -1568,7 +1568,7 @@
         <German>Kleiner Hügel</German>
         <Czech>Malý Vrch</Czech>
         <English>Little Hill</English>
-        <Japanese>Little Hill</Japanese>
+        <Japanese>小丘</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_klen">
@@ -1582,7 +1582,7 @@
         <German>Klen Hill</German>
         <Czech>Klen Hill</Czech>
         <English>Klen Hill</English>
-        <Japanese>Klen Hill</Japanese>
+        <Japanese>クレン丘</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_kustryk">
@@ -1596,7 +1596,7 @@
         <German>Kustryk</German>
         <Czech>Kustryk</Czech>
         <English>Kustryk</English>
-        <Japanese>Kustryk</Japanese>
+        <Japanese>クストリク</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_korona">
@@ -1610,7 +1610,7 @@
         <German>Korona</German>
         <Czech>Koruna</Czech>
         <English>Korona</English>
-        <Japanese>Korona</Japanese>
+        <Japanese>コロナ</Japanese>
       </Key>
       <Key
         ID="STR_location_mt_kurgan">
@@ -1624,7 +1624,7 @@
         <German>Kurgan</German>
         <Czech>Kurgan</Czech>
         <English>Kurgan</English>
-        <Japanese>Kurgan</Japanese>
+        <Japanese>クルガン</Japanese>
       </Key>
 	  <Key
         ID="STR_location_tr_caves">
@@ -1638,7 +1638,7 @@
         <German>Tronicka Cave</German>
         <Czech>Tronicka Cave</Czech>
         <English>Tronicka Cave</English>
-        <Japanese>Tronicka Cave</Japanese>
+        <Japanese>トロニカ洞窟</Japanese>
       </Key>
 	  <Key
         ID="STR_location_pavlovo_dam">
@@ -1652,7 +1652,7 @@
         <German>Pavlovo Dam</German>
         <Czech>Pavlovo Dam</Czech>
         <English>Pavlovo Dam</English>
-        <Japanese>Pavlovo Dam</Japanese>
+        <Japanese>パブロボ ダム</Japanese>
       </Key>
 	  <Key
         ID="STR_location_batarov">
@@ -1666,7 +1666,7 @@
         <German>Batarov</German>
         <Czech>Batarov</Czech>
         <English>Batarov</English>
-        <Japanese>Batarov</Japanese>
+        <Japanese>バタロフ</Japanese>
       </Key>
 	  <Key
         ID="STR_location_batarov_swamp">
@@ -1680,7 +1680,7 @@
         <German>Batarov Swamp</German>
         <Czech>Batarov Swamp</Czech>
         <English>Batarov Swamp</English>
-        <Japanese>Batarov Swamp</Japanese>
+        <Japanese>バタロフ湿地帯</Japanese>
       </Key>
 	  <Key
         ID="STR_location_chezniki">
@@ -1694,7 +1694,7 @@
         <German>Chezniki</German>
         <Czech>Chezniki</Czech>
         <English>Chezniki</English>
-        <Japanese>Chezniki</Japanese>
+        <Japanese>チェツニキ</Japanese>
       </Key>
 	  <Key
         ID="STR_location_tikhaya">
@@ -1708,7 +1708,7 @@
         <German>Tikhaya River</German>
         <Czech>Tikhaya River</Czech>
         <English>Tikhaya River</English>
-        <Japanese>Tikhaya River</Japanese>
+        <Japanese>チーハヤ川</Japanese>
       </Key>
 	  <Key
         ID="STR_location_tunnel_ch">
@@ -1722,7 +1722,7 @@
         <German>Tunnel Entrance Chernogorsk</German>
         <Czech>Tunnel Entrance Chernogorsk</Czech>
         <English>Tunnel Entrance Chernogorsk</English>
-        <Japanese>Tunnel Entrance Chernogorsk</Japanese>
+        <Japanese>チェルノゴルスク側 トンネル入口</Japanese>
       </Key>
 	  <Key
         ID="STR_location_tunnel_el">
@@ -1736,7 +1736,7 @@
         <German>Tunnel Entrance Elektrozavodsk</German>
         <Czech>Tunnel Entrance Elektrozavodsk</Czech>
         <English>Tunnel Entrance Elektrozavodsk</English>
-        <Japanese>Tunnel Entrance Elektrozavodsk</Japanese>
+        <Japanese>エレクトロザヴォドスク側 トンネル入口</Japanese>
       </Key>
 	  <Key
         ID="STR_location_under_st">
@@ -1750,7 +1750,7 @@
         <German>Underground Station</German>
         <Czech>Underground Station</Czech>
         <English>Underground Station</English>
-        <Japanese>Underground Station</Japanese>
+        <Japanese>地下駅</Japanese>
       </Key>
 	  <Key
         ID="STR_location_zeleno_mil">
@@ -1764,7 +1764,7 @@
         <German>Zelenogorsk Military Complex</German>
         <Czech>Zelenogorsk Military Complex</Czech>
         <English>Zelenogorsk Military Complex</English>
-        <Japanese>Zelenogorsk Military Complex</Japanese>
+        <Japanese>ゼレノゴルスク 軍基地</Japanese>
       </Key>
 	   <Key
         ID="STR_location_vyshDubrovka">
@@ -1778,7 +1778,7 @@
         <German>Vyshnaya Dubrovka</German>
         <Czech>Vyshnaya Dubrovka</Czech>
         <English>Vyshnaya Dubrovka</English>
-        <Japanese>Vyshnaya Dubrovka</Japanese>
+        <Japanese>上ダブロヴカ</Japanese>
       </Key>
 	  <Key
         ID="STR_LOCATION_BLACKMT">
@@ -1792,7 +1792,7 @@
         <German>B l a c k   M o u n t a i n s</German>
         <Czech>B l a c k   M o u n t a i n s</Czech>
         <English>B l a c k   M o u n t a i n s</English>
-        <Japanese>B l a c k   M o u n t a i n s</Japanese>
+        <Japanese>黒 い 山 連 峰</Japanese>
       </Key>
 	   <Key
         ID="STR_location_gubareefs">
@@ -1806,7 +1806,7 @@
         <German>Guba Reefs</German>
         <Czech>Guba Reefs</Czech>
         <English>Guba Reefs</English>
-        <Japanese>Guba Reefs</Japanese>
+        <Japanese>グバ暗礁</Japanese>
       </Key>
 	    <Key
         ID="STR_location_novylugp">
@@ -1820,7 +1820,7 @@
         <German>Novy Lug Correctional Facility</German>
         <Czech>Novy Lug Correctional Facility</Czech>
         <English>Novy Lug Correctional Facility</English>
-        <Japanese>Novy Lug Correctional Facility</Japanese>
+        <Japanese>ノービー ラグ 矯正施設</Japanese>
       </Key>
 	  <Key
         ID="STR_location_bfpark">
@@ -1834,7 +1834,7 @@
         <German>Black Forest Amusement Park</German>
         <Czech>Black Forest Amusement Park</Czech>
         <English>Black Forest Amusement Park</English>
-        <Japanese>Black Forest Amusement Park</Japanese>
+        <Japanese>黒の森遊園地</Japanese>
       </Key>
 	  <Key
         ID="STR_location_bfresort">
@@ -1848,7 +1848,7 @@
         <German>Black Forest Resort</German>
         <Czech>Black Forest Resort</Czech>
         <English>Black Forest Resort</English>
-        <Japanese>Black Forest Resort</Japanese>
+        <Japanese>黒の森リゾート</Japanese>
       </Key>
     </Container>
   </Package>

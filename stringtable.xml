@@ -1573,7 +1573,7 @@
       <Key
         ID="STR_location_mt_klen">
         <Original>Klen Hill</Original>
-        <French>Klen Hill</French>
+        <French>Colline Klen</French>
         <Spanish>Klen Hill</Spanish>
         <Italian>Klen Hill</Italian>
         <Hungarian>Klen Hill</Hungarian>
@@ -1629,7 +1629,7 @@
 	  <Key
         ID="STR_location_tr_caves">
         <Original>Tronicka Cave</Original>
-        <French>Tronicka Cave</French>
+        <French>Cave de Tronicka</French>
         <Spanish>Tronicka Cave</Spanish>
         <Italian>Tronicka Cave</Italian>
         <Hungarian>Tronicka Cave</Hungarian>
@@ -1643,7 +1643,7 @@
 	  <Key
         ID="STR_location_pavlovo_dam">
         <Original>Pavlovo Dam</Original>
-        <French>Pavlovo Dam</French>
+        <French>Barrage de Pavlovo</French>
         <Spanish>Pavlovo Dam</Spanish>
         <Italian>Pavlovo Dam</Italian>
         <Hungarian>Pavlovo Dam</Hungarian>
@@ -1671,7 +1671,7 @@
 	  <Key
         ID="STR_location_batarov_swamp">
         <Original>Batarov Swamp</Original>
-        <French>Batarov Swamp</French>
+        <French>Marécages Batarov</French>
         <Spanish>Batarov Swamp</Spanish>
         <Italian>Batarov Swamp</Italian>
         <Hungarian>Batarov Swamp</Hungarian>
@@ -1699,7 +1699,7 @@
 	  <Key
         ID="STR_location_tikhaya">
         <Original>Tikhaya River</Original>
-        <French>Tikhaya River</French>
+        <French>Rivière Tikhaya</French>
         <Spanish>Tikhaya River</Spanish>
         <Italian>Tikhaya River</Italian>
         <Hungarian>Tikhaya River</Hungarian>
@@ -1713,7 +1713,7 @@
 	  <Key
         ID="STR_location_tunnel_ch">
         <Original>Tunnel Entrance Chernogorsk</Original>
-        <French>Tunnel Entrance Chernogorsk</French>
+        <French>Entrée du tunnel de Tchernogorsk</French>
         <Spanish>Tunnel Entrance Chernogorsk</Spanish>
         <Italian>Tunnel Entrance Chernogorsk</Italian>
         <Hungarian>Tunnel Entrance Chernogorsk</Hungarian>
@@ -1727,7 +1727,7 @@
 	  <Key
         ID="STR_location_tunnel_el">
         <Original>Tunnel Entrance Elektrozavodsk</Original>
-        <French>Tunnel Entrance Elektrozavodsk</French>
+        <French>Entrée du tunnel de Elektrozavodsk</French>
         <Spanish>Tunnel Entrance Elektrozavodsk</Spanish>
         <Italian>Tunnel Entrance Elektrozavodsk</Italian>
         <Hungarian>Tunnel Entrance Elektrozavodsk</Hungarian>
@@ -1741,7 +1741,7 @@
 	  <Key
         ID="STR_location_under_st">
         <Original>Underground Station</Original>
-        <French>Underground Station</French>
+        <French>Gare Souterraine</French>
         <Spanish>Underground Station</Spanish>
         <Italian>Underground Station</Italian>
         <Hungarian>Underground Station</Hungarian>
@@ -1755,7 +1755,7 @@
 	  <Key
         ID="STR_location_zeleno_mil">
         <Original>Zelenogorsk Military Complex</Original>
-        <French>Zelenogorsk Military Complex</French>
+        <French>Complexe Militaire de Zelenogorsk</French>
         <Spanish>Zelenogorsk Military Complex</Spanish>
         <Italian>Zelenogorsk Military Complex</Italian>
         <Hungarian>Zelenogorsk Military Complex</Hungarian>
@@ -1783,7 +1783,7 @@
 	  <Key
         ID="STR_LOCATION_BLACKMT">
         <Original>B l a c k   M o u n t a i n s</Original>
-        <French>B l a c k   M o u n t a i n s</French>
+        <French>M o n t s   N o i r s</French>
         <Spanish>B l a c k   M o u n t a i n s</Spanish>
         <Italian>B l a c k   M o u n t a i n s</Italian>
         <Hungarian>B l a c k   M o u n t a i n s</Hungarian>
@@ -1797,7 +1797,7 @@
 	   <Key
         ID="STR_location_gubareefs">
         <Original>Guba Reefs</Original>
-        <French>Guba Reefs</French>
+        <French>Récifs de Guba</French>
         <Spanish>Guba Reefs</Spanish>
         <Italian>Guba Reefs</Italian>
         <Hungarian>Guba Reefs</Hungarian>
@@ -1811,7 +1811,7 @@
 	    <Key
         ID="STR_location_novylugp">
         <Original>Novy Lug Correctional Facility</Original>
-        <French>Novy Lug Correctional Facility</French>
+        <French>Centre Correctionnel de Novy Lug</French>
         <Spanish>Novy Lug Correctional Facility</Spanish>
         <Italian>Novy Lug Correctional Facility</Italian>
         <Hungarian>Novy Lug Correctional Facility</Hungarian>
@@ -1825,7 +1825,7 @@
 	  <Key
         ID="STR_location_bfpark">
         <Original>Black Forest Amusement Park</Original>
-        <French>Black Forest Amusement Park</French>
+        <French>Parc d'Attractions de Black Forest</French>
         <Spanish>Black Forest Amusement Park</Spanish>
         <Italian>Black Forest Amusement Park</Italian>
         <Hungarian>Black Forest Amusement Park</Hungarian>
@@ -1839,7 +1839,7 @@
 	  <Key
         ID="STR_location_bfresort">
         <Original>Black Forest Resort</Original>
-        <French>Black Forest Resort</French>
+        <French>Resort de Black Forest</French>
         <Spanish>Black Forest Resort</Spanish>
         <Italian>Black Forest Resort</Italian>
         <Hungarian>Black Forest Resort</Hungarian>
